@@ -12,6 +12,7 @@ googleAnalytics = ""
     logoSmall = "images/logo-small.png"
     favicon = "favicon.ico"
     opengraphImage = "images/image.png"
+    facebook = ""
     twitter = ""
     linkedin = ""
     github = ""
@@ -24,6 +25,7 @@ googleAnalytics = ""
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = false
+    fontAwesome = true
 
 [[menu.main]]
     name = "About"
