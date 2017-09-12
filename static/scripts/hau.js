@@ -40,21 +40,17 @@ $(document).ready(function(){
         // Get new image
         rn = Math.floor(Math.random()*(img_bg.length));
         // Fade out image and credits and replace on complete
-        $('.credits').animate({ opacity: 0 }, {
-            duration: 3000,
-            complete: function(){
+        $('.credits').fadeOut("slow", function(){
                 $(this).empty().prepend('<a href="' + img_bg[rn][2] + '"> Photo by ' + img_bg[rn][1] + '</a>');
             }
-        });
-        $('.headerBg').animate({ opacity: 0 }, {
-            duration: 3000,
-            complete: function(){
+        );
+        $('.headerBg').fadeOut("slow", function(){
                 $(this).css('background-image', 'url(' + img_dir + img_bg[rn][0] + ')');
             }
-        });
+        );
         // Fade in new image and credits
-        $('.headerBg').animate({ opacity: 1 }, { duration: 3000 });
-        $('.credits').animate({ opacity: .6 }, { duration: 3000 });
+        $('.headerBg').fadeIn("slow");
+        $('.credits').fadeIn("slow");
     }
 
     // Change background every 10 seconds
