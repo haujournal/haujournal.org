@@ -4,15 +4,11 @@ date: 2017-09-04T20:21:20-05:00
 draft: false
 ---
 
-<div class="podcastnav">
-
 - [Listen](#listen)
 - [Subscribe](#subscribe)
 - [About](#about)
 
-</div>
-
-![](images/onlinegods/online_gods_logo.png "Online Gods Logo"){.podcastlogo}
+{{< figure src="/images/onlinegods/online_gods_logo.png" alt="Online Gods Logo" >}}
 
 ### Listen {#listen}
 
@@ -32,9 +28,9 @@ miss an episode:
 
 <div class="subscribeBtns">
 
-- [![](images/onlinegods/subscribe-on-rss.png "Subscribe on RSS")](http://onlinegods.libsyn.com/rss)
-- [![](images/onlinegods/subscribe-on-itunes.png "Subscribe on iTunes")](itms://itunes.apple.com/podcast/online-gods/id1268707636)
-- [![](images/onlinegods/subscribe-on-stitcher.png "Subscribe on Stitcher")](http://www.stitcher.com/s?fid=147092&refid=stpr)
+{{< figure src="images/onlinegods/subscribe-on-rss.png" link="http://onlinegods.libsyn.com/rss" alt="Subscribe on RSS" >}}
+{{< figure src="images/onlinegods/subscribe-on-itunes.png" link="itms://itunes.apple.com/podcast/online-gods/id1268707636" alt="Subscribe on iTunes" >}}
+{{< figure src="images/onlinegods/subscribe-on-stitcher.png" link="http://www.stitcher.com/s?fid=147092&refid=stpr" alt="Subscribe on Stitcher" >}}
 
 </div>
 
