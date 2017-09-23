@@ -6,3 +6,10 @@ $accent: #FFAC26;
 
 @import "base";
 
+div.entry-content {
+  h3 {
+    padding-top: 4em;
+    font-weight: bold;
+  }
+}
+
