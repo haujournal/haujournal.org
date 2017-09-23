@@ -64,11 +64,24 @@ $breakpoint-small: 768px;
   }
 }
 
+@media(min-width: 768px) {
+  nav {
+    height: $vertical-rhythm * 3;
+    img {
+      max-width: 3.5em;
+    }
+  }
+}
+
 @media(max-width: 768px) {
   body .container {
     padding: $vertical-rhythm * 2 $vertical-rhythm;
   }
   nav {
+    height: $vertical-rhythm * 2;
+    img {
+        max-width: 2.5em;
+    }
     // Hide menu links between logo and hamburger menu
     div:not(:first-child):not(:last-child) {
       display: none;
@@ -154,7 +167,6 @@ header {
   50% { color: $black; }
 }
 nav {
-  height: $vertical-rhythm * 3;
   width: 100%;
   background-color: #FFF;
   position: absolute;
@@ -168,9 +180,6 @@ nav {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
-  }
-  img {
-    max-width: 3.5em;
   }
   div.logo, div.nav-toggle {
     visibility: hidden;
