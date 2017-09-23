@@ -878,6 +878,9 @@
   *:before, *:after {
     box-sizing: border-box; }
 
+.accent-color {
+  color: #7BC142; }
+
 html {
   box-sizing: inherit;
   overflow-x: hidden; }

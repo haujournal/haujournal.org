@@ -109,6 +109,9 @@ $breakpoint-small: 768px;
     box-sizing: border-box;
   }
 }
+.accent-color {
+    color: $accent;
+}
 html {
   box-sizing: inherit;
   overflow-x: hidden;
