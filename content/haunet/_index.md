@@ -54,7 +54,7 @@ Currently, HAU-N.E.T. consists of the following institutions:
 - Cornell University (US) – [Department of Anthropology](http://anthropology.cornell.edu "Cornell University, Department of Anthropology")
 - University of Edinburgh (UK) – [Department of Anthropology](http://www.san.ed.ac.uk "University of Edinburgh, Department of Social Anthropology")
 - [The Graduate Institute, Geneva Library](http://graduateinstitute.ch/home/research/library.html "The Graduate Institute, Geneva Library") (CH)
-- University of Groningen (NL) – [Department of the Comparative Study of Religion](http://www.rug.nl/research/centre-for-religious-studies/comparative-historical-study-of-religion/?lang=en "Department of the Comparative Study of Religion (Groningen)") and the [University of Groningen Library](http://www.rug.nl/bibliotheek/?lang=en "University of Groningen Library")
+- University of Groningen (NL) – [Department of the Comparative Study of Religion](http://www.rug.nl/research/centre-for-religious-studies/comparative-historical-study-of-religion/?lang=en "Department of the Comparative Study of Religion") and the [University of Groningen Library](http://www.rug.nl/bibliotheek/?lang=en "University of Groningen Library")
 - University of Helsinki (FL) – [Faculty of Social Sciences, Social and Cultural Anthropology](http://www.helsinki.fi/anthropology/ "University of Helsinki, Social and Cultural Anthropology")
 - [Indiana University Library](http://libraries.iub.edu) (US)
 - Johns Hopkins University (US) – [Department of Anthropology](http://anthropology.jhu.edu "Johns Hopkins University, Department of Anthropology")
