@@ -26,11 +26,11 @@ Finger](http://theladiesfinger.com/).
 Subscribe to "Online Gods" using one of the following services so you don't
 miss an episode:
 
-<div class="subscribeBtns">
+<div class="row middle-xs center-xs">
 
-{{< figure src="images/onlinegods/subscribe-on-rss.png" link="http://onlinegods.libsyn.com/rss" alt="Subscribe on RSS" >}}
-{{< figure src="images/onlinegods/subscribe-on-itunes.png" link="itms://itunes.apple.com/podcast/online-gods/id1268707636" alt="Subscribe on iTunes" >}}
-{{< figure src="images/onlinegods/subscribe-on-stitcher.png" link="http://www.stitcher.com/s?fid=147092&refid=stpr" alt="Subscribe on Stitcher" >}}
+{{< figure src="/images/onlinegods/subscribe-on-rss.png" link="http://onlinegods.libsyn.com/rss" alt="Subscribe on RSS" class="col-xs-6 col-sm-3" >}}
+{{< figure src="/images/onlinegods/subscribe-on-itunes.png" link="http://itunes.apple.com/podcast/online-gods/id1268707636" alt="Subscribe on iTunes" class="col-xs-6 col-sm-3" >}}
+{{< figure src="/images/onlinegods/subscribe-on-stitcher.png" link="http://www.stitcher.com/s?fid=147092&refid=stpr" alt="Subscribe on Stitcher" class="col-xs-6 col-sm-3" >}}
 
 </div>
 
@@ -117,10 +117,10 @@ creation.
 
 **Sponsors:**
 
-<div class="podcastSponsors">
+<div class="row middle-xs center-xs">
 
-- [![HAU Network for Ethnographic Theory](images/onlinegods/hau-logo.png "HAU Network for Ethnographic Theory")](https://www.haujournal.org)
-- [![Project ONLINERPOL](images/onlinegods/digital_dignity_logo.png "Project ONLINERPOL")](http://www.fordigitaldignity.com/)
+{{< figure alt="HAU Network for Ethnographic Theory" src="/images/hau-logo.png" link="https://www.haujournal.org" class="col-xs-12 col-sm-6" >}}
+{{< figure src="/images/onlinegods/digital_dignity_logo.png" alt="Project ONLINERPOL" link="http://www.fordigitaldignity.com/" class="col-xs-12 col-sm-6" >}}
 
 </div>
 
