@@ -925,14 +925,14 @@ header {
   50% {
     color: #212121; } }
 nav {
-  height: 4rem;
+  height: 6rem;
   width: 100%;
   background-color: #FFF;
   position: absolute;
   bottom: 0;
   z-index: 100;
   text-align: center;
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); }
+  border-bottom: 1px solid #7BC142; }
   nav h3 {
     margin: 0;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
@@ -940,7 +940,7 @@ nav {
     letter-spacing: 2px;
     font-weight: 600; }
   nav img {
-    max-width: 2.5em; }
+    max-width: 3.5em; }
   nav div.logo, nav div.nav-toggle {
     visibility: hidden; }
   nav .nav-toggle a {
