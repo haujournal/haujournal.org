@@ -4,9 +4,11 @@ date: 2017-09-04T20:21:20-05:00
 draft: false
 ---
 
-- [Listen](#listen)
-- [Subscribe](#subscribe)
-- [About](#about)
+<div class="row middle-xs center-xs podcastnav">
+  <div class="col-xs-6 col-sm-4"><a href="#listen">Listen</a></div>
+  <div class="col-xs-6 col-sm-4"><a href="#subscribe">Subscribe</a></div>
+  <div class="col-xs-6 col-sm-4"><a href="#about">About</a></div>
+</div>
 
 {{< figure src="/images/onlinegods/online_gods_logo.png" alt="Online Gods Logo" >}}
 

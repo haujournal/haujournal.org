@@ -1277,3 +1277,6 @@ footer {
 div.entry-content h3 {
   padding-top: 4em;
   font-weight: bold; }
+
+div.podcastnav {
+  margin: 1em 0 1em 0; }
