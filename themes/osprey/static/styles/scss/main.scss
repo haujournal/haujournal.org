@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Open+Sans');
 @import "flexboxgrid";
 
 // TODO: Cleanup.
@@ -11,8 +11,8 @@ $smoke: #F7F7F7;
 $accent: #7BC142;
 
 // Fonts
-$font-header: "Merriweather", "Roboto Slab", "Times New Roman", serif;
-$font-body: "Montserrat", "Roboto", "Helvetica", Arial, sans-serif;
+$font-body: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
+$font-header: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
 $font-code: "Menlo", "Monaco", "Andale Mono", "Lucida Console", "Courier New", monospace;
 
 // Mixins
@@ -164,7 +164,7 @@ nav {
   box-shadow: 0 2px 2px rgba(0, 0, 0, .4 );
   h3 {
     margin: 0;
-    font-family: $font-body;
+    font-family: $font-header;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
@@ -484,7 +484,7 @@ blockquote {
     color: #FFF;
   }
   h3 {
-    font-family: $font-body;
+    font-family: $font-header;
     margin-top: $vertical-rhythm * .5;
   }
 }
@@ -492,7 +492,7 @@ blockquote {
   min-height: 100vh;
   h3 {
     margin: 0 0 $vertical-rhythm;
-    font-family: $font-body;
+    font-family: $font-header;
   }
 }
 .contact {

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Merriweather|Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville|Open+Sans");
 .col-xs, .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-offset-0, .col-xs-offset-1, .col-xs-offset-2, .col-xs-offset-3, .col-xs-offset-4, .col-xs-offset-5, .col-xs-offset-6, .col-xs-offset-7, .col-xs-offset-8, .col-xs-offset-9, .col-xs-offset-10, .col-xs-offset-11, .col-xs-offset-12 {
   box-sizing: border-box;
   flex: 0 0 auto;
@@ -875,7 +875,7 @@ html {
 
 body {
   font-size: 1.25rem;
-  font-family: "Montserrat", "Roboto", "Helvetica", Arial, sans-serif;
+  font-family: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
   line-height: 1.6;
   color: #212121; }
   @media (max-width: 992px) {
@@ -892,7 +892,7 @@ header {
   header img {
     max-height: 12rem; }
   header h1 {
-    font-family: "Montserrat", "Roboto", "Helvetica", Arial, sans-serif;
+    font-family: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
     color: #FFF;
     text-shadow: 2px 2px 4px #212121; }
   header .credits {
@@ -935,7 +935,7 @@ nav {
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4); }
   nav h3 {
     margin: 0;
-    font-family: "Montserrat", "Roboto", "Helvetica", Arial, sans-serif;
+    font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600; }
@@ -988,7 +988,7 @@ p {
     font-family: "Menlo", "Monaco", "Andale Mono", "Lucida Console", "Courier New", monospace; }
 
 h1, h2, h3 {
-  font-family: "Merriweather", "Roboto Slab", "Times New Roman", serif;
+  font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
   margin-top: 2rem;
   letter-spacing: 2px; }
   h1 a, h2 a, h3 a {
@@ -1102,13 +1102,13 @@ ul li {
   list-style-type: disc; }
 
 blockquote:before, blockquote:after {
-  font-family: "Merriweather", "Roboto Slab", "Times New Roman", serif;
+  font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
   content: '\201C';
   font-size: 35px;
   color: #7BC142; }
 
 blockquote {
-  font-family: "Merriweather", "Roboto Slab", "Times New Roman", serif;
+  font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
   text-align: center;
   padding: 25px; }
   blockquote p {
@@ -1214,14 +1214,14 @@ blockquote {
   .overlay h2 {
     color: #FFF; }
   .overlay h3 {
-    font-family: "Montserrat", "Roboto", "Helvetica", Arial, sans-serif;
+    font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
     margin-top: 1rem; }
 
 .blog {
   min-height: 100vh; }
   .blog h3 {
     margin: 0 0 2rem;
-    font-family: "Montserrat", "Roboto", "Helvetica", Arial, sans-serif; }
+    font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 .contact {
   width: 100%;
