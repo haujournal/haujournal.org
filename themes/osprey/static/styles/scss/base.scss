@@ -507,6 +507,13 @@ blockquote {
     font-family: $font-header;
   }
 }
+.events {
+  min-height: 100vh;
+  h3 {
+    margin: 0 0 $vertical-rhythm;
+    font-family: $font-header;
+  }
+}
 .contact {
   width: 100%;
   background-color: $smoke;

@@ -1234,6 +1234,12 @@ blockquote {
     margin: 0 0 2rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
+.events {
+  min-height: 100vh; }
+  .events h3 {
+    margin: 0 0 2rem;
+    font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
+
 .contact {
   width: 100%;
   background-color: #F7F7F7;
