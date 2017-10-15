@@ -2,16 +2,21 @@ $(document).ready(function() {
 
     // Nav starts at bottom then is fixed to top
     // Logo and hamburger menus fade in and out
+    // Dropdowns move from top to bottom
     $(window).scroll(function() {
         var scrollPosition = $(this).scrollTop();
         if( scrollPosition > $(this).height() - $("nav").height() ) {
             $("nav").addClass("nav-fixed");
             $("nav > div.logo").css('visibility','visible').fadeIn();
             $("nav > div.nav-toggle").css('visibility','visible').fadeIn();
+            $("nav > div > ul").removeClass('top');
+            $("nav > div > ul").addClass('bot');
         } else {
             $("nav").removeClass("nav-fixed");
             $("nav > div.logo").css('visibility','hidden').fadeOut();
             $("nav > div.nav-toggle").css('visibility','hidden').fadeOut();
+            $("nav > div > ul").removeClass('bot');
+            $("nav > div > ul").addClass('top');
         }
         // // TODO Active nav link changes on scroll
         // $(".section").each(function() {

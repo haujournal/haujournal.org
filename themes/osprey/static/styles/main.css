@@ -846,7 +846,9 @@
   nav {
     height: 6rem; }
     nav img {
-      max-width: 3.5em; } }
+      max-width: 3.5em; }
+    nav div.logo {
+      padding-left: 2.5em; } }
 @media (max-width: 768px) {
   body .container {
     padding: 4rem 2rem; }
@@ -861,6 +863,8 @@
       display: block;
       float: right;
       margin-right: 1em; }
+    nav div.logo {
+      padding-left: 0; }
     nav div.logo a {
       float: left;
       margin-left: 1em; } }
@@ -951,7 +955,8 @@ nav {
     letter-spacing: 2px;
     font-weight: 600; }
   nav div.logo, nav div.nav-toggle {
-    visibility: hidden; }
+    visibility: hidden;
+    padding-right: 0; }
   nav .nav-toggle a {
     display: none; }
 
@@ -1273,3 +1278,28 @@ footer {
   background-color: #212121; }
   footer div, footer a {
     color: #FFF; }
+
+nav div ul {
+  display: none;
+  padding-left: 0; }
+
+nav div:hover ul {
+  display: block;
+  position: absolute;
+  background-color: #FFF;
+  padding: .5em .75em .5em 0;
+  margin-bottom: 1em;
+  text-align: left;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); }
+
+nav div:hover ul.top {
+  bottom: 2em;
+  border-bottom: 1px solid #7BC142;
+  border-radius: 5px; }
+
+nav div:hover ul.bot {
+  border-top: 1px solid #7BC142;
+  border-radius: 5px; }
+
+nav div ul li {
+  list-style-type: none; }
