@@ -1168,6 +1168,9 @@ blockquote {
   .pagination :nth-child(2) {
     float: right; }
 
+.readmore a {
+  text-decoration: underline; }
+
 .full {
   height: 100vh;
   top: 0;

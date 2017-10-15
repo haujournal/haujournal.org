@@ -5,7 +5,7 @@
             <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
 
             <div class="sub-header">
-                {{ .Date.Format (.Site.Params.dateform | default "1 January 2006") }}
+                {{ .Date.Format (.Site.Params.dateform | default "02 January 2006") }}
             </div>
 
             <div class="entry-content">
