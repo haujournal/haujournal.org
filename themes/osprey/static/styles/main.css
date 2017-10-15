@@ -1212,13 +1212,9 @@ blockquote {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0;
+  opacity: .7;
   transition: .2s ease-out;
-  background-color: #212121;
-  -webkit-border-radius: 1em;
-  -moz-border-radius: 1em;
-  -ms-border-radius: 1em;
-  border-radius: 1em; }
+  background-color: #212121; }
   .overlay div {
     color: #FFF; }
   .overlay a {
@@ -1228,6 +1224,7 @@ blockquote {
   .overlay h2 {
     color: #FFF; }
   .overlay h3 {
+    color: #FFF;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
     margin-top: 1rem; }
 

@@ -479,10 +479,9 @@ blockquote {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0;
+  opacity: .7;
   transition: .2s ease-out;
   background-color: $black;
-  @include border-radius(1em);
   div {
     color: #FFF;
   }
@@ -496,6 +495,7 @@ blockquote {
     color: #FFF;
   }
   h3 {
+    color: #FFF;
     font-family: $font-header;
     margin-top: $vertical-rhythm * .5;
   }
