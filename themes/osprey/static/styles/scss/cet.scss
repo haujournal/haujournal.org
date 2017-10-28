@@ -1,0 +1,27 @@
+// Colors
+$black: #212121;
+$storm: #4E6B6C;
+$smoke: #F7F7F7;
+$accent: #FFC300;
+
+@import "base";
+
+div.entry-content {
+  h3 {
+    padding-top: 4em;
+    font-weight: bold;
+  }
+}
+
+div.podcastnav {
+  margin: 1em 0 1em 0;
+}
+
+nav div:hover ul.top {
+  border-bottom: 1px solid $accent;
+}
+
+nav div:hover ul.bot {
+  border-top: 1px solid $accent;
+}
+

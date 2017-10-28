@@ -1,0 +1,15 @@
+{{ partial "header_cet.html" . }}
+
+    <section class="container">
+        <section class="content">
+            <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+
+            <div class="entry-content">
+                {{ .Content }}
+            </div>
+        </section>
+        <br />
+        {{ partial "disqus" . }}
+    </section>
+
+{{ partial "footer.html" . }}
