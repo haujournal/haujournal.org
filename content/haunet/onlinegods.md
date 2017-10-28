@@ -10,7 +10,7 @@ draft: false
   <div class="col-xs-6 col-sm-4"><a href="#about">About</a></div>
 </div>
 
-{{< figure src="/images/onlinegods/online_gods_logo.png" alt="Online Gods Logo" >}}
+{{< img src="/images/onlinegods/online_gods_logo.png" alt="Online Gods Logo"  width="50%" >}}
 
 ### Listen {#listen}
 
@@ -36,9 +36,9 @@ miss an episode:
 
 <div class="row middle-xs center-xs">
 
-{{< figure src="/images/onlinegods/subscribe-on-rss.png" link="http://onlinegods.libsyn.com/rss" alt="Subscribe on RSS" class="col-xs-6 col-sm-3" >}}
-{{< figure src="/images/onlinegods/subscribe-on-itunes.png" link="http://itunes.apple.com/podcast/online-gods/id1268707636" alt="Subscribe on iTunes" class="col-xs-6 col-sm-3" >}}
-{{< figure src="/images/onlinegods/subscribe-on-stitcher.png" link="http://www.stitcher.com/s?fid=147092&refid=stpr" alt="Subscribe on Stitcher" class="col-xs-6 col-sm-3" >}}
+{{< img src="/images/onlinegods/subscribe-on-rss.png" link="http://onlinegods.libsyn.com/rss" alt="Subscribe on RSS" class="col-xs-6 col-sm-3" width="75%" >}}
+{{< img src="/images/onlinegods/subscribe-on-itunes.png" link="http://itunes.apple.com/podcast/online-gods/id1268707636" alt="Subscribe on iTunes" class="col-xs-6 col-sm-3" width="75%" >}}
+{{< img src="/images/onlinegods/subscribe-on-stitcher.png" link="http://www.stitcher.com/s?fid=147092&refid=stpr" alt="Subscribe on Stitcher" class="col-xs-6 col-sm-3" width="75%" >}}
 
 </div>
 
@@ -127,8 +127,8 @@ creation.
 
 <div class="row middle-xs center-xs">
 
-{{< figure alt="HAU Network for Ethnographic Theory" src="/images/hau-logo.png" link="https://www.haujournal.org" class="col-xs-12 col-sm-6" >}}
-{{< figure src="/images/onlinegods/digital_dignity_logo.png" alt="Project ONLINERPOL" link="http://www.fordigitaldignity.com/" class="col-xs-12 col-sm-6" >}}
+{{< img alt="HAU Network for Ethnographic Theory" src="/images/hau-logo.png" link="https://www.haujournal.org" class="col-xs-12 col-sm-6" >}}
+{{< img src="/images/onlinegods/digital_dignity_logo.png" alt="Project ONLINERPOL" link="http://www.fordigitaldignity.com/" class="col-xs-12 col-sm-6" >}}
 
 </div>
 

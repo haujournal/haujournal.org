@@ -11,8 +11,7 @@ The 1969 Lewis Henry Morgan Lectures
 John V. Murra\
 Prepared by Freda Yancy Wolf and Heather Lechtman
 
-[![Murra LHM
-Cover](//www.haujournal.org/haunet/img/Murra.jpg)](https://haubooks.org/reciprocity-and-redistribution/)
+{{< img src="//www.haujournal.org/haunet/img/Murra.jpg" link="https://haubooks.org/reciprocity-and-redistribution/" alt="Murra LHM Cover" width="50%" >}}
 
 Now available! [John V. Murra's Lewis Henry Morgan Lectures, *Reciprocity and
 Redistribution*](https://haubooks.org/reciprocity-and-redistribution),
@@ -32,13 +31,9 @@ University of Rochester, 1986
 
 Emily Martin
 
-[![Martin LHM Front
-Cover](//www.haujournal.org/Martin_LHM_FrontCover_FINAL.png)](//www.haujournal.org/Martin_FrontCover_FINAL.png) 
+{{< img src="//www.haujournal.org/Martin_LHM_FrontCover_FINAL.png" link="//www.haujournal.org/Martin_FrontCover_FINAL.png" alt="Martin LHM Front" width="50%" >}}
 
-[![Martin LHM Back
-Cover](//www.haujournal.org/Martin_LHM_BackCover_FINAL.png)](//www.haujournal.org/Martin_BackCover_FINAL.png)
-
- 
+{{< img src="//www.haujournal.org/Martin_LHM_BackCover_FINAL.png" link="//www.haujournal.org/Martin_BackCover_FINAL.png" alt="Martin LHM Back" width="50%" >}}
 
 **TABLE OF CONTENTS**
 
@@ -151,7 +146,10 @@ Press.<br /><br /></div>
 THE HAU-MORGAN LECTURES INITIATIVE\
 A HAU AND UNIVERSITY OF ROCHESTER COLLABORATION
 
-![](//www.haujournal.org/Ouroboros_Black_HAU.png)
+<div class="row middle-xs center-xs">
 
-![](//www.haujournal.org/UR%20SEAL_transparent.png)
+{{< img src="//www.haujournal.org/Ouroboros_Black_HAU.png" class="col-xs-12 col-sm-6" width="50%" >}}
 
+{{< img src="//www.haujournal.org/UR%20SEAL_transparent.png" class="col-xs-12 col-sm-6" width="50%" >}}
+
+</div>

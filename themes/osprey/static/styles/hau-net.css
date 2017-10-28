@@ -846,6 +846,7 @@
   nav {
     height: 6rem; }
     nav img {
+      margin: 0 auto;
       max-width: 3.5em; }
     nav div.logo {
       padding-left: 2.5em; } }
@@ -856,6 +857,7 @@
   nav {
     height: 4rem; }
     nav img {
+      margin: 0 auto;
       max-width: 2.5em; }
     nav div:not(:first-child):not(:last-child) {
       display: none; }
@@ -1084,7 +1086,7 @@ a {
     color: #FFAC26; }
 
 img {
-  margin: 0 auto;
+  margin: 1em auto;
   max-width: 100%;
   display: block; }
 
