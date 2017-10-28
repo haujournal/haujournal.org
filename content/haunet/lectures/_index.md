@@ -4,7 +4,7 @@ date: 2017-09-23T19:46:41-05:00
 draft: false
 ---
 
-### About
+## About
 
 In 1963 the Lewis Henry Morgan Lectures were established by the Department of
 Anthropology at the University of Rochester as a tribute to Morgan’s life’s work
@@ -32,7 +32,7 @@ For further information write Sean Dowdy (Managing Editor,
 <sdowdy@haujournal.org>) or Julie Billaud (Associate Editor and HAU-Morgan
 Initiative coordinator, <jbillaud@haujournal.org>).
 
-### Lewis Henry Morgan Biography
+## Lewis Henry Morgan Biography
 
 ![Lewis Henry Morgan](/images/lhm/LHM_withMargin.png) Lewis Henry Morgan was
 born in upstate New York in 1818, he was raised there until he left for Cayuga

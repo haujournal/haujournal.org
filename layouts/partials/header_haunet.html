@@ -88,6 +88,8 @@
 
         {{ if .IsHome }}
         <header class="row middle-xs center-xs">
+            <div class="headerBg"></div>
+            <div class="credits"></div>
             <div class="col-xs-12">
                 <div class="row middle-xs center-xs">
                     <div class="col-xs-12"><img src="{{ .Site.Params.logoBig}}" alt="{{ .Site.Title }}"></div>
@@ -105,7 +107,7 @@
             </div>
             {{ $currentPage := . }}
             {{ range .Site.Menus.haunet }}
-            <div class="col-xs-3 col-sm-2"><h3><a href="{{ .URL }}" {{ if eq .URL $currentPage.URL }}class="accent-color"{{ end }}>{{ .Name }}</a></h3></div>
+            <div class="col-xs-3 col-sm-2"><h3><a href="{{ .URL }}" {{ if eq .URL $currentPage.URL }}class="accent-color"{{ end }}>{{ .Name }}</a></h3>{{ if .HasChildren }}<ul class="bot">{{ range .Children }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}</ul>{{ end }}</div>
             {{ end }}
             <div class="col-xs-6 col-sm-1 nav-toggle">
                 <a href="" class="nav-icon" onclick="return false"><img src="/images/icon-menu.png" alt="Open Menu"><img src="/images/icon-x.png" alt="Close Menu" style="display: none;"></a>

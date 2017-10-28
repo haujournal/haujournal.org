@@ -16,3 +16,12 @@ div.entry-content {
 div.podcastnav {
   margin: 1em 0 1em 0;
 }
+
+nav div:hover ul.top {
+  border-bottom: 1px solid $accent;
+}
+
+nav div:hover ul.bot {
+  border-top: 1px solid $accent;
+}
+

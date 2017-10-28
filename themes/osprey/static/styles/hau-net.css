@@ -984,6 +984,31 @@ nav {
 .nav-full.active {
   transform: translate(-100vw, 0px); }
 
+nav div ul {
+  display: none;
+  padding-left: 0; }
+
+nav div:hover ul {
+  display: block;
+  position: absolute;
+  background-color: #FFF;
+  padding: .5em .75em .5em 0;
+  margin-bottom: 1em;
+  text-align: left;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); }
+
+nav div:hover ul.top {
+  bottom: 2em;
+  border-radius: 5px; }
+
+nav div:hover ul.bot {
+  border-radius: 5px; }
+
+nav div ul li {
+  list-style-type: none;
+  font-size: 1rem;
+  padding: .25rem 0 .25rem 0; }
+
 main {
   background-color: #fff;
   transform: translate(0px, 0px);
@@ -1292,3 +1317,9 @@ div.entry-content h3 {
 
 div.podcastnav {
   margin: 1em 0 1em 0; }
+
+nav div:hover ul.top {
+  border-bottom: 1px solid #FFAC26; }
+
+nav div:hover ul.bot {
+  border-top: 1px solid #FFAC26; }
