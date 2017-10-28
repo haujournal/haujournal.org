@@ -14,6 +14,12 @@ draft: false
 
 ### Listen {#listen}
 
+#### Episode 2: Media as Religion and Round Table India/Dalit Online Media (September 2017)
+
+In this episode we speak to [Angela Zito](http://angelazito.com/) about Media as Religion and [Kuffir Nalgundwar](https://twitter.com/kuffir) about [Round Table India](http://roundtableindia.co.in/) & Dalit Online Media
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5792387/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/ffac26/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 #### Episode 1: Big Data and The Ladies Finger (August 7, 2017)
 
 In this episode we speak to [Ralph
@@ -21,7 +27,7 @@ Schroeder](https://www.oii.ox.ac.uk/people/ralph-schroeder/) about Big Data and
 [Nisha Susan](http://theladiesfinger.com/author/nisha-susan/) about [The Ladies
 Finger](http://theladiesfinger.com/).
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/destination/id/522466/height/90/width/582/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/no-cache/true/render-playlist/no/custom-color/ffac26/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5609447/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/ffac26/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Subscribe {#subscribe}
 

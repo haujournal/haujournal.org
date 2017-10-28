@@ -846,7 +846,9 @@
   nav {
     height: 6rem; }
     nav img {
-      max-width: 3.5em; } }
+      max-width: 3.5em; }
+    nav div.logo {
+      padding-left: 2.5em; } }
 @media (max-width: 768px) {
   body .container {
     padding: 4rem 2rem; }
@@ -861,6 +863,8 @@
       display: block;
       float: right;
       margin-right: 1em; }
+    nav div.logo {
+      padding-left: 0; }
     nav div.logo a {
       float: left;
       margin-left: 1em; } }
@@ -949,9 +953,11 @@ nav {
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-weight: 600; }
+    font-weight: 600;
+    font-size: 1.25rem; }
   nav div.logo, nav div.nav-toggle {
-    visibility: hidden; }
+    visibility: hidden;
+    padding-right: 0; }
   nav .nav-toggle a {
     display: none; }
 
@@ -1163,6 +1169,9 @@ blockquote {
   .pagination :nth-child(2) {
     float: right; }
 
+.readmore a {
+  text-decoration: underline; }
+
 .full {
   height: 100vh;
   top: 0;
@@ -1207,13 +1216,9 @@ blockquote {
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0;
+  opacity: .7;
   transition: .2s ease-out;
-  background-color: #212121;
-  -webkit-border-radius: 1em;
-  -moz-border-radius: 1em;
-  -ms-border-radius: 1em;
-  border-radius: 1em; }
+  background-color: #212121; }
   .overlay div {
     color: #FFF; }
   .overlay a {
@@ -1223,12 +1228,19 @@ blockquote {
   .overlay h2 {
     color: #FFF; }
   .overlay h3 {
+    color: #FFF;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
     margin-top: 1rem; }
 
 .blog {
   min-height: 100vh; }
   .blog h3 {
+    margin: 0 0 2rem;
+    font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
+
+.events {
+  min-height: 100vh; }
+  .events h3 {
     margin: 0 0 2rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
