@@ -1259,9 +1259,9 @@ blockquote {
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
     margin-top: 1rem; }
 
-.blog {
+.news {
   min-height: 100vh; }
-  .blog h3 {
+  .news h3 {
     margin: 0 0 2rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
