@@ -1,9 +1,12 @@
 $(document).ready(function() {
 
     // Nav is fixed to top
+    // Move dropdowns to bottom
     $("nav").addClass("nav-fixed");
     $("nav > div.logo").css('visibility','visible').fadeIn();
     $("nav > div.nav-toggle").css('visibility','visible').fadeIn();
+    $("nav > div > ul").removeClass('top');
+    $("nav > div > ul").addClass('bot');
 
     // Full screen nav open on click
     $(".nav-icon").click(function(){
