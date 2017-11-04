@@ -5,5 +5,5 @@ image: "hau-emblem-white.png"
 color: "#76D102"
 link: "https://www.haujournal.org/index.php/hau/issue/current"
 extLinks: true
-description: "An international, peer-reviewed journal"
+description: "An international, peer-reviewed journal which aims to situate ethnography as the prime heuristic of anthropology"
 ---

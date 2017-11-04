@@ -529,6 +529,13 @@ blockquote {
     color: #FFF;
     font-family: $font-header;
     margin-top: $vertical-rhythm * .5;
+    &:hover {
+    background-image: linear-gradient(#FFF,#FFF);
+    background-size: 2px 3px;
+    background-repeat: repeat-x;
+    background-position: 0 99%;
+    text-decoration: none;
+    }
   }
 }
 .news {
