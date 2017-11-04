@@ -1,0 +1,192 @@
+---
+Aarhus:
+    name: "University of Aarhus"
+    locabbr: "DK"
+    location1: "EPICENTER: The Centre for Cultural Epidemics"
+    url1: "http://epicenter.au.dk/"
+Amsterdam:
+    name: "University of Amsterdam"
+    locabbr: "NL"
+    location1: "Department of Sociology and Anthropology"
+    url1: "http://www.fsw.vu.nl/en/departments/social-and-cultural-anthropology/index.asp"
+Australian:
+    name: "Australian National University"
+    locabbr: "AU"
+    location1: "Library"
+    url1: "http://anulib.anu.edu.au/"
+Bergen:
+    name: "University of Bergen"
+    locabbr: "NO"
+    location1: "Department of Social Anthropology"
+    url1: "http://www.uib.no/en/antro"
+Brown:
+    name: "Brown University"
+    locabbr: "US"
+    location1: "Department of Anthropology"
+    url1: "http://www.brown.edu/academics/anthropology/"
+    location2: "Library"
+    url2: "http://library.brown.edu/"
+CaliforniaInstituteOfIntegral:
+    name: "California Institute of Integral Studies"
+    locabbr: "US"
+    location1: "Department of Anthropology and Social Change"
+    url1: "http://www.ciis.edu/Academics/Graduate_Programs/Anthropology_and_Social_Change.html"
+Campinas:
+    name: University of Campinas
+    locabbr: BR
+    location1: Graduate Program in Social Anthropology
+    url1: "http://www.unicamp.br/unicamp/content/graduate-program-social-anthropology?language=en"
+Canterbury:
+    name: University of Canterbury
+    locabbr: NZ
+    location1: Department of Anthropology
+    url1: "http://www.saps.canterbury.ac.nz/anth/"
+CollegeLondon:
+    name: University College London
+    locabbr: UK
+    location1: Department of Anthropology
+    url1: "http://www.ucl.ac.uk/anthropology"
+ColoradoBoulder:
+    name: University of Colorado Boulder
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "http://www.colorado.edu/anthropology/"
+Cornell:
+    name: Cornell University
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "http://anthropology.cornell.edu"
+Edinburgh:
+    name: University of Edinburgh
+    locabbr: UK
+    location1: "Department of Anthropology"
+    url1: "http://www.san.ed.ac.uk"
+GraduateInstitute:
+    name: "The Graduate Institute, Geneva"
+    locabbr: CH
+    location1: Library
+    url1: "http://graduateinstitute.ch/home/research/library.html"
+Groningen:
+    name: University of Groningen
+    locabbr: NL
+    location1: Department of the Comparative Study of Religion
+    url1: "http://www.rug.nl/research/centre-for-religious-studies/comparative-historical-study-of-religion/?lang=en"
+    location2: University of Groningen Library
+    url2: "http://www.rug.nl/bibliotheek/?lang=en"
+Indiana:
+    name: Indiana University
+    locabbr: US
+    location1: Library
+    url1: "http://libraries.iub.edu"
+JohnsHopkins:
+    name: Johns Hopkins University
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "http://anthropology.jhu.edu"
+Kent:
+    name: University of Kent
+    locabbr: UK
+    location1: Department of Social Anthropology
+    url1: "http://www.kent.ac.uk/sac/"
+Lafayette:
+    name: Lafayette College
+    locabbr: US
+    location1: Library
+    url1: "https://library.lafayette.edu/frontpage"
+LondonSchoolOfEconomics:
+    name: London School of Economics and Political Science
+    locabbr: UK
+    location1: Department of Anthropology
+    url1: "http://www.lse.ac.uk/anthropology/home.aspx"
+    location2: Library
+    url2: "http://www.lse.ac.uk/library/home.aspx"
+Lisbon:
+    name: University of Lisbon
+    locabbr: PL
+    location1: Institute of Social Sciences
+    url1: "http://www.ics.ul.pt/instituto/?ln=e&mm=2"
+Manchester:
+    name: The University of Manchester
+    locabbr: UK
+    location1: Library
+    url1: "http://www.manchester.ac.uk/library"
+MassachusettsInstitute:
+    name: Massachusetts Institute of Technology
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "http://anthropology.mit.edu"
+    location2: MIT Libraries
+    url2: "http://libraries.mit.edu"
+MaxPlanck:
+    name: Max-Planck Institute for the Study of Religious and Ethnic Diversity at Göttingen
+    locabbr: DE
+    location1: Library
+    url1: "http://www.mmg.mpg.de/library/"
+MuseeDuQuaiBranly:
+    name: Musée du quai Branly – Jacques Chirac
+    locabbr: FR
+    location1: (website)
+    url1: "http://collections.quaibranly.fr"
+MuseuNacional:
+    name: Museu Nacional - UFRJ
+    locabbr: BR
+    location1: Department of Anthropology
+    url1: http://www.museunacional.ufrj.br
+Princeton:
+    name: Princeton University
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "http://www.princeton.edu/anthropology/"
+Oslo:
+    name: University of Oslo
+    locabbr: NO
+    location1: Department of Social Anthropology
+    url1: "http://www.sv.uio.no/sai/english/"
+    location2: Library
+    url2: "http://www.ub.uio.no/english/"
+Rochester:
+    name: University of Rochester
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "http://www.rochester.edu/College/ant"
+SOAS:
+    name: SOAS, University of London
+    locabbr: UK
+    location1: Department of Anthropology and Sociology
+    url1: "http://www.soas.ac.uk/anthropology/"
+Sydney:
+    name: University of Sydney
+    locabbr: AU
+    location1: Department of Anthropology
+    url1: "http://www.sydney.edu.au/arts/anthropology/"
+Toronto:
+    name: University of Toronto
+    locabbr: CA
+    location1: Libraries
+    url1: "http://onesearch.library.utoronto.ca"
+HigherSchool:
+    name: Higher School of Economics (National Research University) in St. Petersburg
+    locabbr: RU
+    location1: Department of History
+    url1: "http://sh.spb.hse.ru/en/history/"
+Humboldt:
+    name: The Humboldt University of Berlin
+    locabbr: DE
+    location1: Library
+    url1: "http://www.ub.hu-berlin.de/en"
+Cologne:
+    name: University of Cologne
+    locabbr: DE
+    location1: The Global South Studies Centre
+    url1: "http://gssc.uni-koeln.de/de"
+Ludwig:
+    name: Ludwig Maximilian University of Munich
+    locabbr: DE
+    location1: The Institute of Social and Cultural Anthropology
+    url1: "http://www.en.ethnologie.uni-muenchen.de/index.html"
+Harvard:
+    name: Harvard University
+    locabbr: US
+    location1: Department of Anthropology
+    url1: "https://anthropology.fas.harvard.edu/"
+---

@@ -7,6 +7,13 @@
             <div class="entry-content">
                 {{ .Content }}
             </div>
+            <div class="entry-content haunetlist">
+              <ul>
+                {{ range .Site.Data.haunet }}
+                <li>{{ .name }}{{ if .locabbr }} ({{ .locabbr }}){{ end }}{{ if .location1 }} &mdash; {{ if .url1 }}<a href="{{ .url1 }}" target="_blank">{{ end }}{{ .location1 }}{{ if .url1 }}</a>{{ end }}{{ end }}{{ if .location2 }} and {{ if .url2 }}<a href="{{ .url2 }}" target="_blank">{{ end }}{{ .location2 }}{{ if .url2 }}</a>{{ end }}{{ end }}{{ if .location3 }} and {{ if .url3 }}<a href="{{ .url3 }}" target="_blank">{{ end }}{{ .location3 }}{{ if .url3 }}</a>{{ end }}{{ end }}</li>
+                {{ end }}
+              </ul>
+            </div>
         </section>
         <br />
         {{ partial "disqus" . }}
