@@ -1,0 +1,21 @@
+{{ partial "header_haunet.html" . }}
+
+    <section class="container">
+        <section class="content">
+            <h1>&ldquo;Ancestors&rdquo;: Interviews by Alan Macfarlane</h1>
+            <div class="entry-content">
+                {{ .Content }}
+            </div>
+            <div class="row center-xs middle-xs">
+              {{ range sort .Data.Pages "File.TranslationBaseName" }}
+                <div class="col-xs-12 col-sm-6 col-md-2 ancestor">
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </div>
+                {{ end }}
+            </div>
+        </section>
+        <br />
+        {{ partial "disqus" . }}
+    </section>
+
+{{ partial "footer.html" . }}
