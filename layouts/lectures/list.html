@@ -1,0 +1,35 @@
+{{ partial "header_haunet.html" . }}
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12"><h1>Previous HAU-Morgan Lectures</h1></div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 posts-list">
+                {{ range .Data.Pages }}
+                  {{ if .Params.include }}
+                    <article>
+                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                        {{ if .Params.poster }}
+                        <div class="poster">
+                          <a href="{{ .Permalink }}"><img src="{{ .Params.poster }}" alt="{{ .Title }} Poster" width="50%" /></a>
+                        </div>
+                        {{ end }}
+                        <div class="summary">
+                          {{ .Summary }}
+                        </div>
+                        {{ if .Truncated }}
+                        <div class="readmore">
+                          <a href="{{ .Permalink }}">Read More.&nbsp;.&nbsp;.</a>
+                        </div>
+                        {{ end }}
+                    </article>
+                  {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

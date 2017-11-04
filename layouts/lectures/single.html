@@ -1,0 +1,28 @@
+{{ partial "header_haunet.html" . }}
+
+    <section class="container">
+        <section class="content">
+            <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+
+            <div class="entry-content">
+                {{ if .Params.lectureTitle }}<h2>{{ .Params.lectureTitle }}</h2>{{ end }}
+                <p>The Lewis Henry Morgan Lectures{{ if .Params.location }}<br />{{ .Params.location }}{{ end }}{{ if .Params.year }}, {{ .Params.year }}{{end}}</p>
+                {{ if .Params.speaker }}<p>{{ .Params.speaker }}</p>{{ end }}
+                {{ .Content }}
+                <p>THE HAU-MORGAN LECTURES INITIATIVE<br \>
+                  A HAU AND UNIVERSITY OF ROCHESTER COLLABORATION</p>
+                  <div class="row middle-xs center-xs">
+                    <figure class="col-xs-12 col-sm-6">
+                      <img src="/images/lhm/Ouroboros_Black_HAU.png" alt="HAU Logo" width="50%" />
+                    </figure>
+                    <figure class="col-xs-12 col-sm-6">
+                      <img src="/images/lhm/UR_SEAL_transparent.png" alt="University of Rochester Seal" width="50%" />
+                    </figure>
+                  </div>
+            </div>
+        </section>
+        <br />
+        {{ partial "disqus" . }}
+    </section>
+
+{{ partial "footer.html" . }}

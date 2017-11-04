@@ -1,0 +1,411 @@
+@charset "utf-8"; 
+
+
+body {
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 12pt;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+tbody{
+  height: 50px;
+  min-height:50px;
+  font-size: 16pt;
+text-align: center;
+font-family: "Minion Pro", Minion, serif;
+
+}
+.author
+{
+margin-top:1em;
+margin-bottom:1em;
+margin-left:1em;
+font-size: 12pt;
+
+text-align: center;
+font-family: "Minion Pro", Minion, serif;
+}
+a {
+	color: blue;
+	text-decoration: none;
+font-family: "Minion Pro", Minion, serif;
+}
+
+/* Styles */
+.bold {
+	font-size: 12pt;
+font-family: "Minion Pro", Minion, serif;
+}
+.italic {
+	font-size: 12pt;
+font-family: "Minion Pro", Minion, serif;
+}
+.underline {
+	text-decoration: underline;
+font-family: "Minion Pro", Minion, serif;
+}
+.dropcaps {
+	float: left;
+	font-size: 4.9em;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 0.9em;
+	margin: 0px 2px 0em 0em;
+	padding: 0 1px 0 0;
+	font-family: "Minion Pro", Minion, serif;
+}
+.large {
+	font-size: 200%;
+	font-weight: bold;
+	line-height: 0em;
+	font-family: "Minion Pro", Minion, serif;
+}
+.smallcaps {
+	font-size: 85%;
+	font-family: "Minion Pro", Minion, serif;
+}
+.right {
+	text-align: right;
+	font-size:12pt;
+	font-family: "Minion Pro", Minion, serif;
+}
+.left {
+	text-align: left;
+	font-size:12pt;
+	font-family: "Minion Pro", Minion, serif;
+}
+.center {
+	text-align: center;
+	font-size:12pt;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+/* article */
+article {
+	margin: 0 auto auto auto;
+	padding: 0px 0px 12px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+h1.chapterftitle {
+	font-size: 15pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: justify;
+	margin: 40px 0px 0px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+h1.chaptertitle {
+	font-size: 15pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	margin: 40px 0px 0px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+h1.fronttitle {
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 40px 0px 0px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+h1.fronttitle1 {
+	font-size: 16pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 40px 0px 0px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+
+h1.frontsubtitle {
+margin-top:1em;
+margin-bottom:1em;
+	font-size: 17pt;
+	font-weight: bold;
+	text-align: center;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+h1.chaptersubtitle {
+	font-size: 13pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	margin: 40px 0px 0px 5em;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+section > p
+{
+margin-top: 10px;
+margin-bottom: 0px;
+text-align: justify;
+font-family: "Minion Pro", Minion, serif;
+}
+
+section > h1.head1 {
+	font-size: 13pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	margin: 20px 0px 10px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+section > h2.head2 {
+	font-size: 11pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: left;
+	margin: 10px 0px 0px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+section > h3.h3.head3 {
+	font-size: 10pt;
+	font-weight: bold;
+	font-style: normal;
+	text-align: left;
+	margin: 10px 0px 0px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+
+
+/* Images */
+p.caption {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12pt;
+	text-align: center;
+	text-indent: 0px;
+	margin: 12px 0px 20px 0px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+/* Title Page */
+
+.pagebreak
+{
+page-break-before:always;
+}
+
+div.refText > p {
+	font-size: 12pt;
+	text-align: justify;
+	font-weight: normal;
+	font-style: normal;
+	margin: 10px 0px 0px 2.5em;
+	text-indent: -2.5em;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+div.footnote > p {
+	font-size: 11pt;
+	text-align: justify;
+	font-weight: normal;
+	font-style: normal;
+	margin: 10px 0px 0px 10px;
+	font-family: "Minion Pro", Minion, serif;
+}
+
+
+.attribution {
+	text-align: right;
+	font-size:12pt;
+	font-family: "Minion Pro", Minion, serif;
+
+}
+
+div.blockquote
+{
+margin-top:1em;
+margin-left:3em;
+margin-right:3em;
+text-align:justify;
+font-family: "Minion Pro", Minion, serif;
+font-size: 11pt;
+}
+
+div.toc
+{
+margin-top:1em;
+text-align:left;
+font-family: "Minion Pro", Minion, serif;
+font-size: 16pt;
+}
+
+div.fm1
+{
+margin-top: 2em;
+margin-bottom: 6em;
+text-align:center;
+font-family: "Minion Pro", Minion, serif;
+font-size: 16pt;
+}
+
+
+.fm1
+{
+margin-top:1em;
+margin-bottom:1em;
+margin-left:1em;
+font-size: 16pt;
+text-align: center;
+font-family: "Minion Pro", Minion, serif;
+}
+
+.fm2
+{
+font-size: 13pt;
+text-align: center;
+font-family: "Minion Pro", Minion, serif;
+}
+
+
+
+.toc1
+{
+margin-top:1em;
+text-align:left;
+font-family: "Minion Pro", Minion, serif;
+}
+
+div.ack
+{
+margin-top:1em;
+text-align:left;
+font-family: "Minion Pro", Minion, serif;
+font-size: 16pt;
+}
+
+div.block
+{
+font-size: 11pt;
+font-family: "Minion Pro", Minion, serif;
+margin-left:2em;
+margin-right:2em;
+text-align:justify;
+}
+
+div.sect1
+{
+font-size:12pt;
+margin-top:3em;
+margin-bottom:1em;
+font-family: "Minion Pro", Minion, serif;
+}
+.hanglist
+{
+text-indent: -15px;
+margin-left: 15px;
+text-align: justify;
+font-family: "Minion Pro", Minion, serif;
+}
+
+.note
+{
+text-indent: -15px;
+margin-left: 15px;
+text-align: justify;
+font-family: "Minion Pro", Minion, serif;
+}
+
+.indent
+{
+text-indent: 1em;
+font-size:12pt;
+font-family: "Minion Pro", Minion, serif;
+}
+
+.fm1indent
+{
+text-align: justify;
+text-indent: 1em;
+font-size:16pt;
+font-family: "Minion Pro", Minion, serif;
+}
+
+.bqindent
+{
+text-indent: 0em;
+font-size:11pt;
+font-family: "Minion Pro", Minion, serif;
+}
+
+
+.noindent
+{
+text-indent: 0em;
+font-size:12pt;
+font-family: "Minion Pro", Minion, serif;
+
+}
+
+p
+{
+margin-top: 10px;
+margin-bottom: 0px;
+text-align: justify;
+font-family: "Minion Pro", Minion, serif;
+}
+
+/* Table */
+table {
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
+	padding: 10px;
+	width:60%;
+	font-size:16pt;
+	font-family: "Minion Pro", Minion, serif;	
+}
+
+
+td {
+	padding: 2px 5px 2px 5px;
+	text-align: center;
+
+}
+th {
+	padding: 2px 5px 2px 5px;
+	text-align: center;
+
+}
+
+.border-bottom
+{
+	border-bottom: 1px solid black;
+}
+
+sup
+{
+font-size:small;
+font-family: "Minion Pro", Minion, serif;
+}
+
+figure {
+  padding: 12px 0px 12px 0px;
+ font-family: "Minion Pro", Minion, serif;
+ font-size:12pt;
+  border: none;
+  background: transparent;
+  text-align: center;
+
+}
+
+
+figcaption {
+  padding: 12px 15px 0px 15px;
+ font-family: "Minion Pro", Minion, serif;
+ font-size:12pt;
+  border: none;
+  text-align: center;
+}
