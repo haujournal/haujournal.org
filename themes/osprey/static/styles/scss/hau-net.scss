@@ -27,4 +27,16 @@ nav div:hover ul.bot {
 
 .ancestor {
   padding: 1em;
+  margin: 1em;
+  background-color: $accent;
+  @include border-radius(10px);
+  a {
+    text-shadow: unset;
+    background: none;
+    text-decoration: none;
+    color: #FFF;
+    &:hover {
+      color: $black;
+    }
+  }
 }

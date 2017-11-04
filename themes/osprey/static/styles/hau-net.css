@@ -1327,4 +1327,17 @@ nav div:hover ul.bot {
   border-top: 1px solid #FFAC26; }
 
 .ancestor {
-  padding: 1em; }
+  padding: 1em;
+  margin: 1em;
+  background-color: #FFAC26;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px; }
+  .ancestor a {
+    text-shadow: unset;
+    background: none;
+    text-decoration: none;
+    color: #FFF; }
+    .ancestor a:hover {
+      color: #212121; }
