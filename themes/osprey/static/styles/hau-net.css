@@ -849,7 +849,7 @@
       margin: 0 auto;
       max-width: 3.5em; }
     nav div.logo {
-      padding-left: 2.5em; } }
+      padding-left: 1em; } }
 @media (max-width: 768px) {
   body .container {
     padding: 4rem 2rem; }
@@ -1335,15 +1335,15 @@ nav div:hover ul.bot {
 .ancestor {
   padding: 1em;
   margin: 1em;
-  background-color: #FFAC26;
+  background-color: #F7F7F7;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   border-radius: 10px; }
   .ancestor a {
     text-shadow: unset;
-    background: none;
+    background: #F7F7F7;
     text-decoration: none;
-    color: #FFF; }
+    color: #212121; }
     .ancestor a:hover {
-      color: #212121; }
+      color: #FFAC26; }
