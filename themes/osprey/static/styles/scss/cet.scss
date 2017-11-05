@@ -40,3 +40,10 @@ nav div:hover ul.bot {
   border-top: 1px solid $accent;
 }
 
+.footer-emblem {
+  background-image: url('/images/cet-emblemo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 8em;
+  text-align: right;
+}

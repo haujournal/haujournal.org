@@ -1316,9 +1316,15 @@ textarea {
 
 footer {
   height: 11.25rem;
-  background-color: #212121; }
+  background-color: #212121;
+  border-top: 3px solid #FFAC26;
+  font-size: 65%; }
   footer div, footer a {
     color: #FFF; }
+  footer .address {
+    text-align: left; }
+  footer .copyright {
+    text-align: center; }
 
 main {
   background-color: #F0F0F0; }
@@ -1367,3 +1373,10 @@ nav div:hover ul.bot {
 .poster img {
   padding: 4px;
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.1); }
+
+.footer-emblem {
+  background-image: url("/images/haunet-emblemo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 8em;
+  text-align: right; }

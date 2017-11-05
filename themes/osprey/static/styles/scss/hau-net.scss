@@ -60,3 +60,11 @@ nav div:hover ul.bot {
   padding: 4px;
   box-shadow: 0 0 4px rgba(0, 0, 0, .1);
 }
+
+.footer-emblem {
+  background-image: url('/images/haunet-emblemo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 8em;
+  text-align: right;
+}

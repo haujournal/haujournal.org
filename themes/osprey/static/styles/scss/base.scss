@@ -594,7 +594,15 @@ textarea {
 footer {
   height: $vertical-rhythm * 6;
   background-color: $black;
+  border-top: 3px solid $accent;
+  font-size: 65%;
   div, a {
     color: #FFF;
+  }
+  .address {
+    text-align: left;
+  }
+  .copyright {
+    text-align: center;
   }
 }
