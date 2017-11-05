@@ -6,7 +6,7 @@
 
             <div class="entry-content">
                 {{ if .Params.lectureTitle }}<h2>{{ .Params.lectureTitle }}</h2>{{ end }}
-                <p>The Lewis Henry Morgan Lectures{{ if .Params.location }}<br />{{ .Params.location }}{{ end }}{{ if .Params.year }}, {{ .Params.year }}{{end}}</p>
+                {{ if .Params.location }}<p>{{ .Params.location }}{{ end }}{{ if .Params.year }}, {{ .Params.year }}{{end}}</p>
                 {{ if .Params.speaker }}<p>{{ .Params.speaker }}</p>{{ end }}
                 {{ .Content }}
                 <p>THE HAU-MORGAN LECTURES INITIATIVE<br \>
