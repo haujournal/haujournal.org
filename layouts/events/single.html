@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+
+    <section class="container">
+        <section class="content">
+            <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+
+            <h2>
+                {{ dateFormat (.Site.Params.dateform | default "02 January 2006") .Params.eventdate }}
+            </h2>
+
+            <div class="entry-content"><br />
+                {{ if .Params.speaker }}
+                <strong>Speaker:</strong> {{ .Params.speaker }}<br />
+                {{ end }}
+                {{ if .Params.starttime }}
+                <strong>Start:</strong> {{ dateFormat "15:04 MST" .Params.starttime }}<br />
+                {{ end }}
+                {{ if .Params.endtime }}
+                <strong>End:</strong> {{ dateFormat "15:04 MST" .Params.endtime }}<br />
+                {{ end }}
+                {{ if .Params.venue }}
+                <strong>Location:</strong> {{ .Params.venue }}<br />
+                {{ end }}
+                <br />
+                {{ .Content }}
+            </div>
+
+        </section>
+        <br>
+        {{ partial "disqus" . }}
+    </section>
+
+{{ partial "footer.html" . }}
