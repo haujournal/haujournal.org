@@ -844,7 +844,7 @@
 
 @media (min-width: 768px) {
   nav {
-    height: 6rem; }
+    height: 5.8125rem; }
     nav img {
       margin: 0 auto;
       max-width: 3.5em; }
@@ -852,10 +852,10 @@
       padding-left: 1em; } }
 @media (max-width: 768px) {
   body .container {
-    padding: 4rem 2rem; }
+    padding: 3.75rem 1.875rem; }
 
   nav {
-    height: 4rem; }
+    height: 3.75rem; }
     nav img {
       margin: 0 auto;
       max-width: 2.5em; }
@@ -872,7 +872,7 @@
       margin-left: 1em; } }
 @media (max-width: 400px) {
   body .container {
-    padding: 4rem 2rem; } }
+    padding: 3.75rem 1.875rem; } }
 * {
   box-sizing: border-box;
   border: 0;
@@ -894,7 +894,7 @@ html {
 body {
   font-size: 1.25rem;
   font-family: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
-  line-height: 1.6;
+  line-height: 1.5;
   color: #212121; }
   @media (max-width: 992px) {
     body {
@@ -908,7 +908,7 @@ header {
   header div {
     z-index: 101; }
   header img {
-    max-height: 12rem; }
+    max-height: 11.25rem; }
   header h1 {
     font-family: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
     color: #FFF;
@@ -1021,17 +1021,17 @@ main.active {
 
 .container {
   max-width: 56.250rem;
-  padding: 6rem 0 4rem;
+  padding: 5.625rem 0 3.75rem;
   margin: auto; }
 
 p {
-  margin-bottom: 2rem; }
+  margin-bottom: 1.875rem; }
   p code {
     font-family: "Menlo", "Monaco", "Andale Mono", "Lucida Console", "Courier New", monospace; }
 
 h1, h2, h3 {
   font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
-  margin-top: 2rem;
+  margin-top: 1.875rem;
   letter-spacing: 1px; }
   h1 a, h2 a, h3 a {
     text-decoration: none; }
@@ -1094,7 +1094,7 @@ pre {
   font: 12px "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
   background-color: #F7F7F7;
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 1.875rem;
   word-wrap: normal;
   padding: 16px;
   overflow: auto;
@@ -1134,7 +1134,7 @@ code {
   font-family: "Menlo", "Monaco", "Andale Mono", "Lucida Console", "Courier New", monospace; }
 
 ul, ol {
-  margin-bottom: 2rem; }
+  margin-bottom: 1.875rem; }
   ul li, ol li {
     margin-left: 1.25em; }
     ul li code, ol li code {
@@ -1160,12 +1160,12 @@ blockquote {
     content: '\201D'; }
 
 .posts-list {
-  margin: 0 0 2rem; }
+  margin: 0 0 1.875rem; }
 
 .sub-header, time {
   font-size: 1.25rem;
   color: #4E6B6C;
-  margin-bottom: 2rem; }
+  margin-bottom: 1.875rem; }
   @media (max-width: 992px) {
     .sub-header, time {
       font-size: 1.25rem; } }
@@ -1207,10 +1207,10 @@ blockquote {
 .about {
   width: 100%;
   background-color: #F7F7F7;
-  padding-bottom: 4rem; }
+  padding-bottom: 3.75rem; }
   .about p {
     font-size: 1.666rem;
-    margin-top: 2rem; }
+    margin-top: 1.875rem; }
     @media (max-width: 992px) {
       .about p {
         font-size: 1.563rem; } }
@@ -1233,7 +1233,7 @@ blockquote {
   .gallery div[class^="col-"]:hover .overlay, .gallery div[class*=" col-"]:hover .overlay {
     opacity: .9; }
 .gallery img {
-  padding: 6rem; }
+  padding: 5.625rem; }
 
 .overlay {
   position: absolute;
@@ -1257,7 +1257,8 @@ blockquote {
   .overlay h3 {
     color: #FFF;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
-    margin-top: 1rem; }
+    margin-top: 0.9375rem;
+    margin-bottom: 0.9375rem; }
     .overlay h3:hover {
       background-image: linear-gradient(#FFF, #FFF);
       background-size: 2px 3px;
@@ -1268,21 +1269,21 @@ blockquote {
 .news {
   min-height: 100vh; }
   .news h3 {
-    margin: 0 0 2rem;
+    margin: 0 0 1.875rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 .events {
   min-height: 100vh; }
   .events h3 {
-    margin: 0 0 2rem;
+    margin: 0 0 1.875rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 .contact {
   width: 100%;
   background-color: #F7F7F7;
-  padding-bottom: 4rem; }
+  padding-bottom: 3.75rem; }
   .contact form {
-    margin-top: 2rem; }
+    margin-top: 1.875rem; }
   .contact #form-thankyou {
     margin: 8px 0;
     padding: 11px; }
@@ -1310,14 +1311,29 @@ input, textarea {
       cursor: pointer; }
 
 textarea {
-  min-height: 8rem;
+  min-height: 7.5rem;
   overflow: auto; }
 
 footer {
-  height: 12rem;
+  height: 11.25rem;
   background-color: #212121; }
   footer div, footer a {
     color: #FFF; }
+
+main {
+  background-color: #F0F0F0; }
+
+.content {
+  padding: 0em 2em .25em 2em;
+  background: #FFF;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 0 #E0E0E0; }
+  .content h1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem; }
 
 div.entry-content h3 {
   padding-top: 4em;

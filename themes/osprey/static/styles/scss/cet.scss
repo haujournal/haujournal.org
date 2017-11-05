@@ -6,6 +6,21 @@ $accent: #FFC300;
 
 @import "base";
 
+main {
+  background-color: #F0F0F0;
+}
+
+.content {
+  padding: 0em 2em .25em 2em;
+  background: #FFF;
+  @include border-radius(2px);
+  box-shadow: 1px 1px 0 #E0E0E0;
+  h1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
 div.entry-content {
   h3 {
     padding-top: 4em;

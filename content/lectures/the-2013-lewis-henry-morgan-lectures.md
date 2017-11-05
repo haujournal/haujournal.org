@@ -10,7 +10,7 @@ year: 2013
 speaker: "Peter van der Veer"
 ---
 
-{{< img src="/images/lhm/2013-LHM-POSTER.png" alt="2013 Lewis Henry Morgan Lectures Poster"  width="50%" >}}
+{{< img src="/images/lhm/2013-LHM-POSTER.png" alt="2013 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}
 
 The 2013 Lewis Henry Morgan Lecture explores the value of comparison in the social sciences. Originally a specialist on Indian society, in 2001 Professor van der Veer published a book comparing religion and nationalism in India and Britain. Five years ago, he began comparative work on China, and has just published a book comparing the spiritual and the secular in India and China. He is currently editing another comparative work on Religion in Asian Cities. The lecture poses the question of comparison at a more general level, asking why do we need to compare and what should we compare? It proposes that anthropology can make a unique contribution to comparative analysis because of its specific ‘holistic’ approach. By paying special attention to the complexity of cultural translation, it problematizes both the generalizations that are implicit in the models of quantitative sociology and the universalizations that are implicit in the models of cognitive psychology.
 

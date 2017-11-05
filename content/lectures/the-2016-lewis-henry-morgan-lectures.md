@@ -10,7 +10,7 @@ year: 2016
 speaker: "Rupert Stasch"
 ---
 
-{{< img src="/images/lhm/2016_LHM_Stasch_Poster.jpg" alt="2016 Lewis Henry Morgan Lectures Poster"  width="50%" >}}
+{{< img src="/images/lhm/2016_LHM_Stasch_Poster.jpg" alt="2016 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}
 
 Anthropologist Rupert Stasch’s research focuses on the treehouse-dwelling Korowai people living on the island of New Guinea in Indonesian Papua. Since 1990, they have been visited by fifty film crews and thousands of tourists, who are motivated by the idea that Korowai are a “Stone Age society” living outside of global markets and history. Drawing on ethnographic research with tourists, guides, reality television crews, and Korowai themselves, Stasch describes the vivid fascination that tourists and Korowai people have with each other’s strange characteristics and analyzes the stereotypes that visitors and Korowai project onto each other. Stasch suggests that some participants in the encounter become more aware of the naturalized assumptions of their own thought, while others assert the unquestionable naturalness of their assumptions even more strongly than before.
 

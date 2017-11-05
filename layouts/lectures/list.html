@@ -1,10 +1,8 @@
 {{ partial "header_haunet.html" . }}
 
-<section>
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12"><h1>Previous HAU-Morgan Lectures</h1></div>
-        </div>
+<section class="container">
+  <section class="content">
+    <h1>Previous HAU-Morgan Lectures</h1>
         <div class="row">
             <div class="col-xs-12 posts-list">
                 {{ range .Data.Pages }}
@@ -29,7 +27,7 @@
                 {{ end }}
             </div>
         </div>
-    </div>
+  </section>
 </section>
 
 {{ partial "footer.html" . }}

@@ -7,4 +7,4 @@ draft: false
 We are an organization committed to ensuring ethnography is the primary driver
 of anthropological theory by providing a number of forums for researchers,
 libraries, museums, and humanistic social science departments across the world
-to engage with one another. Please continue below to see our various projects.
+to engage with one another. Please continue below to see our different projects.
