@@ -16,7 +16,9 @@ Since its beginning in 2000, the Business Process Outsourcing (BPO) industry has
 
 Challenging superficial accounts of predatory corporations in the Global North using “coolie labor” in the Global South to enhance profits through off-shoring and outsourcing, we draw on long-term fieldwork to argue that such simplistic narratives fail to capture the complexity and density of interactions between imagination, aspiration, technology, and work for upwardly-mobile classes in the Global South. New technologies such as artificial intelligence, chat, and the digitization of work constantly transform the experiences of workers in this industry. Their experiences provide us with critical insights into capital, labor, and information technology in our rapidly changing world.
 
-The fifth installment of the multimedia feature of the HAU-Morgan Lectures Initiative brings you Professor Gupta and Mankekar’s 2017 Morgan Lectures in video format. See links below the video for the transcript of the lectures.
+The fifth installment of the multimedia feature of the HAU-Morgan Lectures Initiative brings you Professor Gupta and Mankekar’s 2017 Morgan Lectures in video format.
+
+{{< vimeo 241758657 >}}
 
 &nbsp;
 
