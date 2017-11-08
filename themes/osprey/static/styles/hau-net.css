@@ -844,7 +844,7 @@
 
 @media (min-width: 768px) {
   nav {
-    height: 5.8125rem; }
+    height: 5.115rem; }
     nav img {
       margin: 0 auto;
       max-width: 3.5em; }
@@ -852,10 +852,10 @@
       padding-left: 1em; } }
 @media (max-width: 768px) {
   body .container {
-    padding: 3.75rem 1.875rem; }
+    padding: 3.3rem 1.65rem; }
 
   nav {
-    height: 3.75rem; }
+    height: 3.3rem; }
     nav img {
       margin: 0 auto;
       max-width: 2.5em; }
@@ -872,7 +872,7 @@
       margin-left: 1em; } }
 @media (max-width: 400px) {
   body .container {
-    padding: 3.75rem 1.875rem; } }
+    padding: 3.3rem 1.65rem; } }
 * {
   box-sizing: border-box;
   border: 0;
@@ -892,23 +892,23 @@ html {
   overflow-x: hidden; }
 
 body {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-family: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
   line-height: 1.5;
   color: #212121; }
   @media (max-width: 992px) {
     body {
-      font-size: 1.25rem; } }
+      font-size: 1.1rem; } }
   @media (max-width: 768px) {
     body {
-      font-size: 1.1rem; } }
+      font-size: 1rem; } }
 
 header {
   height: 100vh; }
   header div {
     z-index: 101; }
   header img {
-    max-height: 11.25rem; }
+    max-height: 9.9rem; }
   header h1 {
     font-family: "Libre Baskerville", "Baskerville", "Times New Roman", serif;
     color: #FFF;
@@ -1021,47 +1021,47 @@ main.active {
 
 .container {
   max-width: 56.250rem;
-  padding: 5.625rem 0 3.75rem;
+  padding: 4.95rem 0 3.3rem;
   margin: auto; }
 
 p {
-  margin-bottom: 1.875rem; }
+  margin-bottom: 1.65rem; }
   p code {
     font-family: "Menlo", "Monaco", "Andale Mono", "Lucida Console", "Courier New", monospace; }
 
 h1, h2, h3 {
   font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
-  margin-top: 1.875rem;
+  margin-top: 1.65rem;
   letter-spacing: 1px; }
   h1 a, h2 a, h3 a {
     text-decoration: none; }
 
 h1 {
-  font-size: 2.961rem; }
+  font-size: 2.605rem; }
   @media (max-width: 992px) {
-    h1 {
-      font-size: 2.441rem; } }
-  @media (max-width: 768px) {
     h1 {
       font-size: 2.148rem; } }
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 1.953rem; } }
 
 h2 {
-  font-size: 2.221rem; }
+  font-size: 1.995rem; }
   @media (max-width: 992px) {
     h2 {
-      font-size: 1.953em; } }
+      font-size: 1.719em; } }
   @media (max-width: 768px) {
     h2 {
-      font-size: 1.719rem; } }
+      font-size: 1.563rem; } }
 
 h3 {
-  font-size: 1.666rem; }
+  font-size: 1.466rem; }
   @media (max-width: 992px) {
     h3 {
-      font-size: 1.563rem; } }
+      font-size: 1.375rem; } }
   @media (max-width: 768px) {
     h3 {
-      font-size: 1.375rem; } }
+      font-size: 1.25rem; } }
 
 strong {
   font-weight: 600; }
@@ -1094,7 +1094,7 @@ pre {
   font: 12px "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
   background-color: #F7F7F7;
   margin-top: 0;
-  margin-bottom: 1.875rem;
+  margin-bottom: 1.65rem;
   word-wrap: normal;
   padding: 16px;
   overflow: auto;
@@ -1134,7 +1134,7 @@ code {
   font-family: "Menlo", "Monaco", "Andale Mono", "Lucida Console", "Courier New", monospace; }
 
 ul, ol {
-  margin-bottom: 1.875rem; }
+  margin-bottom: 1.65rem; }
   ul li, ol li {
     margin-left: 1.25em; }
     ul li code, ol li code {
@@ -1160,18 +1160,18 @@ blockquote {
     content: '\201D'; }
 
 .posts-list {
-  margin: 0 0 1.875rem; }
+  margin: 0 0 1.65rem; }
 
 .sub-header, time {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   color: #4E6B6C;
-  margin-bottom: 1.875rem; }
+  margin-bottom: 1.65rem; }
   @media (max-width: 992px) {
     .sub-header, time {
-      font-size: 1.25rem; } }
+      font-size: 1.1rem; } }
   @media (max-width: 768px) {
     .sub-header, time {
-      font-size: 1.1rem; } }
+      font-size: 1rem; } }
 
 .content {
   text-align: left;
@@ -1207,16 +1207,16 @@ blockquote {
 .about {
   width: 100%;
   background-color: #F7F7F7;
-  padding-bottom: 3.75rem; }
+  padding-bottom: 3.3rem; }
   .about p {
-    font-size: 1.666rem;
-    margin-top: 1.875rem; }
+    font-size: 1.466rem;
+    margin-top: 1.65rem; }
     @media (max-width: 992px) {
       .about p {
-        font-size: 1.563rem; } }
+        font-size: 1.375rem; } }
     @media (max-width: 768px) {
       .about p {
-        font-size: 1.375rem; } }
+        font-size: 1.25rem; } }
   .about a {
     text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff, 0.03em 0.075em #fff, -0.03em 0.075em #fff, 0.06em 0.075em #fff, -0.06em 0.075em #fff, 0.09em 0.075em #fff, -0.09em 0.075em #fff, 0.12em 0.075em #fff, -0.12em 0.075em #fff, 0.15em 0.075em #fff, -0.15em 0.075em #fff;
     background-image: linear-gradient(#FFAC26, #FFAC26);
@@ -1233,7 +1233,7 @@ blockquote {
   .gallery div[class^="col-"]:hover .overlay, .gallery div[class*=" col-"]:hover .overlay {
     opacity: .9; }
 .gallery img {
-  padding: 5.625rem; }
+  padding: 4.95rem; }
 
 .overlay {
   position: absolute;
@@ -1257,8 +1257,8 @@ blockquote {
   .overlay h3 {
     color: #FFF;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif;
-    margin-top: 0.9375rem;
-    margin-bottom: 0.9375rem; }
+    margin-top: 0.825rem;
+    margin-bottom: 0.825rem; }
     .overlay h3:hover {
       background-image: linear-gradient(#FFF, #FFF);
       background-size: 2px 3px;
@@ -1269,21 +1269,21 @@ blockquote {
 .news {
   min-height: 100vh; }
   .news h3 {
-    margin: 0 0 1.875rem;
+    margin: 0 0 1.65rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 .events {
   min-height: 100vh; }
   .events h3 {
-    margin: 0 0 1.875rem;
+    margin: 0 0 1.65rem;
     font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 .contact {
   width: 100%;
   background-color: #F7F7F7;
-  padding-bottom: 3.75rem; }
+  padding-bottom: 3.3rem; }
   .contact form {
-    margin-top: 1.875rem; }
+    margin-top: 1.65rem; }
   .contact #form-thankyou {
     margin: 8px 0;
     padding: 11px; }
@@ -1311,11 +1311,11 @@ input, textarea {
       cursor: pointer; }
 
 textarea {
-  min-height: 7.5rem;
+  min-height: 6.6rem;
   overflow: auto; }
 
 footer {
-  height: 11.25rem;
+  height: 9.9rem;
   background-color: #212121;
   border-top: 3px solid #FFAC26;
   font-size: 65%; }
