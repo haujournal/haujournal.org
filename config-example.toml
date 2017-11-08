@@ -1,31 +1,32 @@
-baseURL = "http://example.com"
+baseURL = "http://haujournal.org"
 languageCode = "en-us"
-title = "My Site"
+title = "HAU"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
 
 [Params]
-    tagline = "The Tagline"
-    description = "Description of site"
-    logoBig = "images/logo-big.png"
-    logoSmall = "images/logo-small.png"
-    favicon = "favicon.ico"
-    opengraphImage = "images/image.png"
-    facebook = ""
-    twitter = ""
+    tagline = ""
+    description = "HAU consists of a number of projects including a peer-reviewed journal, open-access monograph books, and other programming commited to placing ethnography at the center of anthropological theory"
+    logoBig = "/images/hau-logo.png"
+    logoSmall = "/images/hau-logo-small.png"
+    favicon = "/images/hau-favicon.png"
+    opengraphImage = "images/hau-logo.png"
+    facebook = "pages/HAU-Journal-of-Ethnographic-Theory/156351187763663"
+    twitter = "haujournal"
     linkedin = ""
     github = ""
     email = ""
     googleTagManager = ""
     highlightJS = false
-    copyright = true
-    credit = true
     customCSS = false
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = false
     fontAwesome = true
+    mailChimpForm = true
+    dateform = "02 January 2006"
+    address = "HAU Journal of Ethnographic Theory<br />c/o Centre of Ethnographic Theory<br />SOAS, University of London<br />Thornhaugh Street<br />Russell Square<br />London WC1H 0XG, United Kingdom"
 
 [[menu.main]]
     name = "About"
@@ -33,12 +34,149 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.main]]
-    name = "Our Work"
-    url = "/#our-work"
+    name = "Projects"
+    url = "/#work"
     weight = 2
+    identifier = "projects"
+    
+  [[menu.main]]
+      name = "Journal of Ethnographic Theory"
+      url = "https://www.haujournal.org/index.php/hau/issue/current"
+      parent = "projects"
+      weight = 1
+  [[menu.main]]
+      name = "HAU Books"
+      url = "https://haubooks.org"
+      parent = "projects"
+      weight = 2
+  [[menu.main]]
+      name = "HAU-N.E.T."
+      url = "/haunet/"
+      parent = "projects"
+      weight = 3
+  [[menu.main]]
+      name = "Centre for Ethnographic Theory"
+      url = "/cet/"
+      parent = "projects"
+      weight = 4
+
+[[menu.main]]
+    name = "News"
+    url = "/#news"
+    weight = 3
+
+[[menu.main]]
+    name = "Events"
+    url = "/#events"
+    weight = 4
 
 [[menu.main]]
     name = "Connect"
-    url = "/#connect"
+    url = "/#contact"
+    weight = 5
+
+[[menu.haunet]]
+    name = "Home"
+    url = "/haunet/"
+    weight = 1
+    identifier = "haunethome"
+    
+    [[menu.haunet]]
+      name = "Journal of Ethnographic Theory"
+      url = "https://www.haujournal.org/index.php/hau/issue/current"
+      parent = "haunethome"
+      weight = 1
+    [[menu.haunet]]
+      name = "HAU Books"
+      url = "https://haubooks.org"
+      parent = "haunethome"
+      weight = 2
+    [[menu.haunet]]
+      name = "HAU-N.E.T."
+      url = "/haunet/"
+      parent = "haunethome"
+      weight = 3
+    [[menu.haunet]]
+      name = "Centre for Ethnographic Theory"
+      url = "/cet/"
+      parent = "haunethome"
+      weight = 4
+
+[[menu.haunet]]
+    name = "Ancestors Project"
+    url = "/ancestors/"
+    weight = 2
+    identifier = "ancestors"
+
+[[menu.haunet]]
+    name = "Morgan Lectures"
+    url = "/lectures/about/"
+    weight = 3
+    identifier = "lectures"
+    
+    [[menu.haunet]]
+      name = "Introduction"
+      url = "/lectures/about/"
+      weight = 1
+      parent = "lectures"
+      
+    [[menu.haunet]]
+      name = "Watch Morgan Lectures"
+      url = "/lectures/"
+      weight = 2
+      parent = "lectures"
+      
+    [[menu.haunet]]
+      name = "Read Unedited Lectures"
+      url = "/lectures/read/"
+      weight = 3
+      parent = "lectures"
+    
+    [[menu.haunet]]
+      name = "Past Morgan Lectures"
+      url = "http://www.rochester.edu/College/ant/morgan/past.html"
+      weight = 4
+      parent = "lectures"
+
+[[menu.haunet]]
+    name = "Podcast: Online Gods"
+    url = "/haunet/onlinegods/"
+    weight = 4
+
+[[menu.cet]]
+    name = "Home"
+    url = "/cet/"
+    weight = 1
+    identifier = "cethome"
+    
+    [[menu.cet]]
+      name = "Journal of Ethnographic Theory"
+      url = "https://www.haujournal.org/index.php/hau/issue/current"
+      parent = "cethome"
+      weight = 1
+    [[menu.cet]]
+      name = "HAU Books"
+      url = "https://haubooks.org"
+      parent = "cethome"
+      weight = 2
+    [[menu.cet]]
+      name = "HAU-N.E.T."
+      url = "/haunet/"
+      parent = "cethome"
+      weight = 3
+    [[menu.cet]]
+      name = "Centre for Ethnographic Theory"
+      url = "/cet/"
+      parent = "cethome"
+      weight = 4
+
+[[menu.cet]]
+    name = "Members"
+    url = "/cet/members/"
+    weight = 2
+
+[[menu.cet]]
+    name = "Events"
+    url = "/events/"
     weight = 3
 
