@@ -10,7 +10,7 @@
             <div class="entry-content haunetlist">
               <ul>
                 {{ range .Site.Data.haunet }}
-                <li>{{ .name }}{{ if .locabbr }} ({{ .locabbr }}){{ end }}{{ if .location1 }} &mdash; {{ if .url1 }}<a href="{{ .url1 }}" target="_blank">{{ end }}{{ .location1 }}{{ if .url1 }}</a>{{ end }}{{ end }}{{ if .location2 }} and {{ if .url2 }}<a href="{{ .url2 }}" target="_blank">{{ end }}{{ .location2 }}{{ if .url2 }}</a>{{ end }}{{ end }}{{ if .location3 }} and {{ if .url3 }}<a href="{{ .url3 }}" target="_blank">{{ end }}{{ .location3 }}{{ if .url3 }}</a>{{ end }}{{ end }}</li>
+                <li>{{ .name | markdownify }}{{ if .locabbr }} ({{ .locabbr }}){{ end }}{{ if .location1 }}<ul class="circle"><li>{{ if .url1 }}<a href="{{ .url1 }}" target="_blank">{{ end }}{{ .location1 | markdownify }}{{ if .url1 }}</a>{{ end }}</li>{{ end }}{{ if .location2 }} <li>{{ if .url2 }}<a href="{{ .url2 }}" target="_blank">{{ end }}{{ .location2 | markdownify }}{{ if .url2 }}</a>{{ end }}</li>{{ end }}{{ if .location3 }}<li>{{ if .url3 }}<a href="{{ .url3 }}" target="_blank">{{ end }}{{ .location3 | markdownify }}{{ if .url3 }}</a>{{ end }}</li>{{ end }}{{ if .location1 }}</ul>{{ end }}</li>
                 {{ end }}
               </ul>
             </div>

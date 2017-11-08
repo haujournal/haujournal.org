@@ -123,12 +123,12 @@ MaxPlanck:
     location1: Library
     url1: "http://www.mmg.mpg.de/library/"
 MuseeDuQuaiBranly:
-    name: Musée du quai Branly – Jacques Chirac
+    name: Musée du quai Branly -- Jacques Chirac
     locabbr: FR
     location1: (website)
     url1: "http://collections.quaibranly.fr"
 MuseuNacional:
-    name: Museu Nacional - UFRJ
+    name: Museu Nacional -- UFRJ
     locabbr: BR
     location1: Department of Anthropology
     url1: http://www.museunacional.ufrj.br
