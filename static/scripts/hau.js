@@ -4,12 +4,12 @@ $(document).ready(function(){
         ["LorenzoFerrarini5.jpg","Lorenzo Ferrarini",'http://lorenzoferrarini.com/'],
         ["alfonsocastellanos3.jpg","Alfonso Castellanos",'https://www.flickr.com/photos/thiefoli/sets/'],
         ["adrianogodoy1.jpg","Adriano Godoy",'https://www.flickr.com/photos/adrianosgodoy/sets/72157645925028693/'],
-        ["edwardlittlemoon7.jpg","Edward Moon-Little",'http://www.worldartwanderer.portfoliobox.me/'],
+        ["edwardlittlemoon7.png","Edward Moon-Little",'http://www.worldartwanderer.portfoliobox.me/'],
         ["LorenzoFerrarini17.jpg","Lorenzo Ferrarini",'http://lorenzoferrarini.com/'],
         ["pajefilmes2.jpg","Juan Javier Rivera",'#'],
         ["ankushsamant2.JPG","Ankush Samant",'http://wheneveridontgetbored.blogspot.in/'],
         ["TimourClaquinChambugong5.jpg","Timour Claquin Chambugong",'http://timourclaquinchambugong.smugmug.com/'],
-        ["edwardlittlemoon3.jpg","Edward Moon-Little",'http://www.worldartwanderer.portfoliobox.me/'],
+        ["edwardlittlemoon3.png","Edward Moon-Little",'http://www.worldartwanderer.portfoliobox.me/'],
         ["TimourClaquinChambugong10.jpg","Timour Claquin Chambugong",'http://timourclaquinchambugong.smugmug.com/'],
         ["nayarabarros1.jpg","Nayara Barros",'https://www.flickr.com/photos/barrosnayara/'],
         ["ankushsamant7.JPG","Ankush Samant",'http://wheneveridontgetbored.blogspot.in/'],
@@ -18,7 +18,7 @@ $(document).ready(function(){
         ["ankushsamant10.JPG","Ankush Samant",'http://wheneveridontgetbored.blogspot.in/'],
         ["nayarabarros3.jpg","Nayara Barros",'https://www.flickr.com/photos/barrosnayara/'],
         ["adrianogodoy5.jpg","Adriano Godoy",'https://www.flickr.com/photos/adrianosgodoy/sets/72157645925028693/'],
-        ["edwardlittlemoon1.jpg","Edward Moon-Little",'http://www.worldartwanderer.portfoliobox.me/'],
+        ["edwardlittlemoon1.png","Edward Moon-Little",'http://www.worldartwanderer.portfoliobox.me/'],
     );
     var rn = Math.floor(Math.random()*(img_bg.length));
     $('.credits').empty().prepend('<a href="' + img_bg[rn][2] + '"> Photo by ' + img_bg[rn][1] + '</a>');
