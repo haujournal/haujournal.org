@@ -1,5 +1,4 @@
-*.jpg
-*.png
-*.gif
-*.tif
-*.tiff
+*.[Jj][Pp][Gg]
+*.[Pp][Nn][Gg]
+*.[Gg][Ii][Ff]
+*.[Tt][Ii][Ff]+
