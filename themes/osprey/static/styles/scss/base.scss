@@ -235,9 +235,11 @@ nav div:hover ul {
 nav div:hover ul.top {
   bottom: 2em;
   border-radius: 5px;
+  font-family: $font-header;
 }
 nav div:hover ul.bot {
   border-radius: 5px;
+  font-family: $font-header;
 }
 nav div ul li {
   list-style-type: none;

@@ -1001,10 +1001,12 @@ nav div:hover ul {
 
 nav div:hover ul.top {
   bottom: 2em;
-  border-radius: 5px; }
+  border-radius: 5px;
+  font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 nav div:hover ul.bot {
-  border-radius: 5px; }
+  border-radius: 5px;
+  font-family: "Open Sans", "Roboto", "Helvetica", Arial, sans-serif; }
 
 nav div ul li {
   list-style-type: none;
