@@ -8,9 +8,6 @@
                 {{ range first 5 (where .Data.Pages "Section" "news") }}
                     <article>
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                        <div class=sub-header>
-                          {{ .Date.Format (.Site.Params.dateform | default "02 January 2006") }}
-                        </div>
                     </article>
                 {{ end }}
             </div>

@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+    <section class="news" id="news">
+        <div class="container">
+            <div class="row center-xs">
+                <div class="col-xs-12"><h1>{{ humanize .Type }}</h1></div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 posts-list">
+                    {{ range .Data.Pages }}
+                        <article>
+                            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                            <div class="summary">
+                              {{ .Summary }}
+                            </div>
+                            {{ if .Truncated }}
+                            <div class="readmore">
+                              <a href="{{ .Permalink }}">Read More.&nbsp;.&nbsp;.</a>
+                            </div>
+                            {{ end }}
+                        </article>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </section>
+
+{{ partial "footer.html" . }}
