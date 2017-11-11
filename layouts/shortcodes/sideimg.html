@@ -1,0 +1,10 @@
+<div class="row middle-xs">
+  <div class="col-xs-12 col-md-4">
+    {{ if .Get "link" }}<a href="{{.}}">{{ end }}
+      <img src="{{ .Get "src"}}" {{ if .Get "alt" }}alt="{{ .Get "alt" }}"{{ end }} />
+    {{ if .Get "link" }}</a>{{ end }}
+  </div>
+  <div class="col-xs-12 col-md-8">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
