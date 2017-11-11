@@ -403,10 +403,16 @@ blockquote {
   margin-bottom: $vertical-rhythm;
 }
 .content {
-  text-align: left;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
   width: 100%;
   time {
     margin-left: 3px;
+  }
+  h1, h2, h3 {
+    text-align: left;
   }
   a {
     text-shadow: 0.03em 0 #fff,
@@ -465,6 +471,10 @@ blockquote {
   p {
     @include size(h3);
     margin-top: $vertical-rhythm;
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
   }
   a {
     text-shadow: 0.03em 0 #fff,
