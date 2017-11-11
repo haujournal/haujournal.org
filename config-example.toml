@@ -25,6 +25,7 @@ googleAnalytics = ""
     ajaxFormspree = false
     fontAwesome = true
     mailChimpForm = true
+    donateForm = true
     dateform = "02 January 2006"
     address = "HAU Journal of Ethnographic Theory<br />c/o Centre of Ethnographic Theory<br />SOAS, University of London<br />Thornhaugh Street<br />Russell Square<br />London WC1H 0XG, United Kingdom"
 

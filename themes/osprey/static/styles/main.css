@@ -1347,3 +1347,11 @@ nav div:hover ul.bot {
   background-repeat: no-repeat;
   height: 8em;
   text-align: right; }
+
+#donate_form {
+  margin-top: 1em;
+  border-top: 1px solid #7BC142; }
+
+#currency_select {
+  background-color: #FFF;
+  padding: 5px; }
