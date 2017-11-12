@@ -56,6 +56,9 @@ nav div:hover ul.bot {
     background: $smoke;
     text-decoration: none;
     color: $black;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
     &:hover {
       color: $accent;
     }

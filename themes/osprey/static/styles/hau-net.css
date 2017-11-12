@@ -1389,7 +1389,10 @@ nav div:hover ul.bot {
     text-shadow: unset;
     background: #F7F7F7;
     text-decoration: none;
-    color: #212121; }
+    color: #212121;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none; }
     .ancestor a:hover {
       color: #FFAC26; }
 
