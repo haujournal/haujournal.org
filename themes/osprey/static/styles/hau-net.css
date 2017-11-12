@@ -1406,3 +1406,9 @@ nav div:hover ul.bot {
   background-repeat: no-repeat;
   height: 8em;
   text-align: right; }
+
+.haunetlist {
+  text-align: left;
+  -webkit-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none; }
