@@ -1,7 +1,7 @@
 ---
 title: "The 2017 Lewis Henry Morgan Lectures"
 date: 2017-11-05T15:29:25-06:00
-draft: false
+draft: true
 include: true
 poster: "/images/lhm/2017_LHM_Poster.jpg"
 lectureTitle: "Future Tense: Capital, Labor, and Technology in a Service Industry"
