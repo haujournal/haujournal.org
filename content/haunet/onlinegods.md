@@ -1,5 +1,6 @@
 ---
 title: "Online Gods: A Podcast about Digital Cultures"
+author: "Ian Cook and Sahana Udupa"
 date: 2017-09-04T20:21:20-05:00
 draft: false
 ---

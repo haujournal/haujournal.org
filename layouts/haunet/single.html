@@ -3,6 +3,7 @@
     <section class="container">
         <section class="content">
             <h1>{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h1>
+            {{ if .Params.author }}<h3 style="margin-top:0;">by {{ .Params.author }}</h3>{{ end }}
 
             <div class="entry-content">
                 {{ .Content }}
