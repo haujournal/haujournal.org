@@ -129,7 +129,7 @@ googleAnalytics = ""
       parent = "lectures"
     
     [[menu.haunet]]
-      name = "Past Morgan Lectures"
+      name = "List of Past Morgan Lectures"
       url = "http://www.rochester.edu/College/ant/morgan/past.html"
       weight = 4
       parent = "lectures"

@@ -209,6 +209,8 @@ nav {
   background-color: $black;
   transform: translate(0px, 0px);
   transition: 0.25s ease-out;
+  margin-top: $vertical-rhythm;
+  overflow-y: scroll;
   a {
     color: #FFF;
     &:hover {
@@ -276,6 +278,9 @@ h1, h2, h3 {
 h1 { @include size(h1); }
 h2 { @include size(h2); }
 h3 { @include size(h3); }
+h4 {
+  font-family: $font-header;
+}
 strong {
   font-weight: 600;
 }
