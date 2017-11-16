@@ -1,9 +1,10 @@
-baseURL = "http://haujournal.org"
+baseURL = "https://haujournal.org"
 languageCode = "en-us"
 title = "HAU"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
+disqusShortname = ""
 
 [Params]
     tagline = ""
