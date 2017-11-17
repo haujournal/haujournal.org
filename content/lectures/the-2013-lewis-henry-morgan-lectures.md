@@ -1,6 +1,6 @@
 ---
 title: "The 2013 Lewis Henry Morgan Lectures"
-date: 2017-11-03T18:03:24-05:00
+date: 2017-11-13T18:03:24-05:00
 draft: false
 include: true
 poster: "/images/lhm/2013-LHM-POSTER.png"
@@ -8,6 +8,7 @@ lectureTitle: "The Value of Comparison"
 location: "University of Rochester"
 year: 2013
 speaker: "Peter van der Veer"
+description: "The 2013 Lewis Henry Morgan Lecture by Peter van der Veer on The Value of Comparison given at the University of Rochester"
 ---
 
 {{< img src="/images/lhm/2013-LHM-POSTER.png" alt="2013 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}

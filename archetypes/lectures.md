@@ -8,5 +8,6 @@ lectureTitle: ""
 location: ""
 year: {{ now.Format "2006" }}
 speaker: ""
+description: ""
 ---
 

@@ -8,6 +8,7 @@ lectureTitle: "Future Tense: Capital, Labor, and Technology in a Service Industr
 location: "University of Rochester"
 year: 2017
 speaker: "Akhil Gupta and Purnima Mankekar"
+description: "The 2017 Lewis Henry Morgan Lecture by Akhil Gupta and Purnima Mankekar on Future Tense: Capital, Labor, and Technology in a Service Industry in India given at the University of Rochester"
 ---
 
 {{< img src="/images/lhm/2017_LHM_Poster.jpg" alt="2017 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}

@@ -1,7 +1,8 @@
 ---
 title: "Proposals for Malinowski Monographs"
-date: 2017-09-07T14:31:34-05:00
+date: 2017-10-07T14:31:34-05:00
 draft: false
+description: "Announcing the call for proposals for the third series of Malinowski Monographs for HAU Books"
 ---
 
 HAU Books is delighted to launch its third international competition for

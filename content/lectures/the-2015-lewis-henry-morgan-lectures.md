@@ -8,6 +8,7 @@ lectureTitle: "The Cultural Politics of Water in the Everglades and Beyond"
 location: "University of Rochester"
 year: 2015
 speaker: "Jessica R. Cattelino"
+description: "The 2015 Lewis Henry Morgan Lecture by Jessica Cattelino on The Cultural Politics of Water in the Everglades and Beyond given at the University of Rochester"
 ---
 
 {{< img src="/images/lhm/2015_LHM_Cattelino_Poster.jpg" alt="2015 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}

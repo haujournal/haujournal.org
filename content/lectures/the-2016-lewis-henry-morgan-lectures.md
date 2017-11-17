@@ -1,6 +1,6 @@
 ---
 title: "The 2016 Lewis Henry Morgan Lectures"
-date: 2017-11-04T11:53:45-05:00
+date: 2017-11-14T11:53:45-05:00
 draft: false
 include: true
 poster: "/images/lhm/2016_LHM_Stasch_Poster.jpg"
@@ -8,6 +8,7 @@ lectureTitle: 'Dramas of Otherness: “First Contact” Tourism in New Guinea'
 location: "University of Rochester"
 year: 2016
 speaker: "Rupert Stasch"
+description: "The 2016 Lewis Henry Morgan Lecture by Rupert Stasch on Dramas of Otherness: First Contact Tourism in New Guinea given at the University of Rochester"
 ---
 
 {{< img src="/images/lhm/2016_LHM_Stasch_Poster.jpg" alt="2016 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}

@@ -1,7 +1,8 @@
 ---
 title: "Announcing: The Stephen F. Gudeman Lectureship in Anthropology"
-date: 2017-11-11T12:49:06-06:00
+date: 2017-11-12T12:49:06-06:00
 draft: false
+description: "Announcing the a new series of lectures on socio-cultural anthropology to be hosted by the Department of Anthropology at the University of Minnesota-Twin Cities"
 ---
 
 The Gudeman Lectureship in Anthropology is a new series that will be hosted by the Department of Anthropology at the University of Minnesota-Twin Cities in honor of the many years Stephen F. Gudeman was a faculty member who worked in its intellectually open and supportive environment. The Lectureship is meant as a stage for talks in Social and Cultural Anthropology that focus on the following topics: economies in relation to their social contexts, the wider effects of economy on society, the use of ethnography in the study of contemporary life, and the impact of ethnographic research on social theory.

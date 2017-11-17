@@ -1,7 +1,8 @@
 ---
 title: "Elizabeth Colson"
-date: 2017-11-04T13:23:40-05:00
+date: 2017-11-14T13:23:40-05:00
 draft: false
+description: "An interview with Elizabeth Colson by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---
 
 {{< vimeo 106817319 >}}

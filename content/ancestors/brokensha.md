@@ -1,7 +1,8 @@
 ---
 title: "David Brokensha"
-date: 2017-10-28T14:03:09-05:00
+date: 2017-10-30T14:03:09-05:00
 draft: false
+description: "An interview with David Brokensha by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---
 
 {{< vimeo 106805524 >}}

@@ -1,8 +1,9 @@
 ---
 title: "The HAU-Morgan Lectures Initiative"
-date: 2017-09-23T19:46:41-05:00
+date: 2017-10-23T19:46:41-05:00
 draft: false
 include: false
+description: "A collaborative project between HAU and the Department of Anthropology at the University of Rochester for promoting the dissemination of Lewis Henry Morgan lectures in video and print"
 ---
 
 ## About

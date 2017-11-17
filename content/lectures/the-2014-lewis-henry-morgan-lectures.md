@@ -1,6 +1,6 @@
 ---
 title: "The 2014 Lewis Henry Morgan Lectures"
-date: 2017-11-04T11:03:14-05:00
+date: 2017-11-14T11:03:14-05:00
 draft: false
 include: true
 poster: "/images/lhm/2014_LHM_Poster.png"
@@ -8,6 +8,7 @@ lectureTitle: "Waves: An anthropology of scientific things"
 location: "University of Rochester"
 year: 2014
 speaker: "Stefan Helmreich"
+description: "The 2014 Lewis Henry Morgan Lecture by Stefan Helmreich on Waves: An Anthropology of Scientific Things given at the University of Rochester"
 ---
 
 {{< img src="/images/lhm/2014_LHM_Poster.png" alt="2014 Lewis Henry Morgan Lectures Poster"  width="50%" class="poster" >}}

@@ -1,7 +1,8 @@
 ---
 title: "Stephan Feuchtwang"
-date: 2017-11-04T13:34:48-05:00
+date: 2017-11-14T13:34:48-05:00
 draft: false
+description: "An interview with Stephan Feuchtwang by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---
 
 {{< vimeo 106903157 >}}

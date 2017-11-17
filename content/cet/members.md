@@ -1,7 +1,8 @@
 ---
 title: "Centre for Ethnographic Theory Members"
-date: 2017-11-05T10:14:08-06:00
+date: 2017-11-15T10:14:08-06:00
 draft: false
+description: "The members of the Centre for Ethnographic Theory at SOAS University of London"
 ---
 
 &nbsp;

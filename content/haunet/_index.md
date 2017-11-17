@@ -1,7 +1,8 @@
 ---
 title: "HAU-N.E.T."
-date: 2017-09-04T19:20:46-05:00
+date: 2017-11-04T19:20:46-05:00
 draft: false
+description: "An international network of research centres, anthropology departments, and libraries working together to support HAU's flagship journal and book series"
 ---
 
 HAU-N.E.T., or the HAU Network of Ethnographic Theory, is an international

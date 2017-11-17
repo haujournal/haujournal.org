@@ -1,8 +1,9 @@
 ---
 title: "The Unedited Lewis Henry Morgan Lectures"
-date: 2017-10-28T11:10:35-05:00
+date: 2017-10-30T11:10:35-05:00
 draft: false
 include: false
+description: "Unedited prints of select past lectures from the Lewis Henry Morgan Lectures series by HAU and the University of Rochester"
 ---
 
 ## Reciprocity and Redistribution in Andean Civilizations

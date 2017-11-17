@@ -1,7 +1,8 @@
 ---
 title: "Keith Hart"
-date: 2017-11-04T13:46:27-05:00
+date: 2017-11-14T13:46:27-05:00
 draft: false
+description: "An interview with Keith Hart by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---
 
 {{< vimeo 106911114 >}}

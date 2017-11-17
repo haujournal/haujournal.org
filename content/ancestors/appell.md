@@ -1,7 +1,8 @@
 ---
 title: "Laura Appell"
-date: 2017-10-28T14:02:49-05:00
+date: 2017-10-30T14:02:49-05:00
 draft: false
+description: "An interview with Laura Appell by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---
 
 {{< vimeo 106798128 >}}
