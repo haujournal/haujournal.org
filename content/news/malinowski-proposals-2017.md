@@ -1,6 +1,7 @@
 ---
 title: "Proposals for Malinowski Monographs"
 date: 2017-10-07T14:31:34-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "Announcing the call for proposals for the third series of Malinowski Monographs for HAU Books"
 ---

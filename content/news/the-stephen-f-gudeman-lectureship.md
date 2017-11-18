@@ -1,6 +1,7 @@
 ---
 title: "Announcing: The Stephen F. Gudeman Lectureship in Anthropology"
 date: 2017-11-12T12:49:06-06:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "Announcing the a new series of lectures on socio-cultural anthropology to be hosted by the Department of Anthropology at the University of Minnesota-Twin Cities"
 ---

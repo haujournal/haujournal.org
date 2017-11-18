@@ -2,6 +2,7 @@
 title: "Online Gods: A Podcast about Digital Cultures"
 author: "Ian Cook and Sahana Udupa"
 date: 2017-10-04T20:21:20-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "Monthly podcast by Ian Cook and Sahana Udupa on anthropology and what it means to do ethnography in the digital age. Sponsored by HAU and Project ONLINERPOL."
 ---

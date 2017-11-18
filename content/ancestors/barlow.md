@@ -1,6 +1,7 @@
 ---
 title: "Horace Barlow"
 date: 2017-10-30T14:02:56-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "An interview with Horace Barlow by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---

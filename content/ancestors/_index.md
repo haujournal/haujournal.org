@@ -1,6 +1,7 @@
 ---
 title: "“Ancestors”: Interviews by Alan Macfarlane"
 date: 2017-10-23T21:04:39-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "A series of HAU's favorite interviews, including videos and transcripts, conducted by Alan Macfarlane with leading thinkers in anthropology"
 ---

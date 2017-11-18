@@ -1,6 +1,7 @@
 ---
 title: "The 2014 Lewis Henry Morgan Lectures"
 date: 2017-11-14T11:03:14-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 include: true
 poster: "/images/lhm/2014_LHM_Poster.png"

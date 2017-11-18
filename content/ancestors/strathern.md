@@ -1,6 +1,7 @@
 ---
 title: "Marilyn Strathern"
 date: 2017-11-14T13:49:11-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "An interview with Marilyn Strathern by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---

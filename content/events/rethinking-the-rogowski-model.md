@@ -1,6 +1,7 @@
 ---
 title: "Rethinking the Rogowski Model: Taiwan’s Trade Policy and Domestic Political Alignment 1996-2008 and Beyond"
 date: 2017-11-07T14:04:21-06:00
+modDate: 2017-11-18T11:02:35-06:00
 speaker: Dr. Mark Lai
 venue: "Russell Square: College Buildings, Room G3"
 eventdate: "2017-11-08"

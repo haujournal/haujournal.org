@@ -1,6 +1,7 @@
 ---
 title: "The 2015 Lewis Henry Morgan Lectures"
 date: 2017-11-04T11:45:51-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 include: true
 poster: "/images/lhm/2015_LHM_Cattelino_Poster.jpg"

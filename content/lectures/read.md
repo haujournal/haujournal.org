@@ -1,6 +1,7 @@
 ---
 title: "The Unedited Lewis Henry Morgan Lectures"
 date: 2017-10-30T11:10:35-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 include: false
 description: "Unedited prints of select past lectures from the Lewis Henry Morgan Lectures series by HAU and the University of Rochester"

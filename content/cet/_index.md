@@ -1,6 +1,7 @@
 ---
 title: "Centre for Ethnographic Theory"
 date: 2017-10-30T14:22:54-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "The Centre for Ethnographic Theory at SOAS University of London works to support HAU's mission and promote research and teaching in the field of ethnographic theory"
 blackfriday:

@@ -1,6 +1,7 @@
 ---
 title: "Announcing: The Annual Debate of Anthropological Keywords 2017"
 date: 2017-11-12T12:37:53-06:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "Announcing the 2017 Annual Debate of Anthropological Keywords on Humanism to be held at the AAA meetings in Washington, D.C."
 ---

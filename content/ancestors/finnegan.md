@@ -1,6 +1,7 @@
 ---
 title: "Ruth Finnegan"
 date: 2017-11-14T13:40:57-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "An interview with Ruth Finnegan by Alan Macfarlane for HAU's video archive of Ancestors interviews"
 ---

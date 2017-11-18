@@ -1,6 +1,7 @@
 ---
 title: "HAU-N.E.T."
 date: 2017-11-04T19:20:46-05:00
+modDate: 2017-11-18T11:02:35-06:00
 draft: false
 description: "An international network of research centres, anthropology departments, and libraries working together to support HAU's flagship journal and book series"
 ---
