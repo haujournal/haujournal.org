@@ -44,7 +44,8 @@
         <meta property="og:type" content="website">
         <meta property="og:url" content="{{ .Site.BaseURL }}">
         <meta property="og:site_name" content="{{ .Site.Title }}">
-        {{ if .Site.Params.opengraphImage}}<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.opengraphImage}}">{{ end }}
+        {{ if .Params.featuredImage }}<meta property="og:image" content="{{ .Params.featuredImage | absURL }}">
+        {{ else if .Site.Params.opengraphImage }}<meta property="og:image" content="{{ .Site.Params.opengraphImage | absURL }}">{{ end }}
         {{ if .Description }}<meta name="og:description" content="{{ .Description }}">
         {{ else if .Site.Params.description }}<meta property="og:description" content="{{ .Site.Params.description}}">
         {{ else if .Summary }}<meta name="og:description" content="{{ .Summary }}">{{ end }}
